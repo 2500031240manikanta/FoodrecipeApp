@@ -3,60 +3,92 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login | FoodRecipe</title>
+    <title>Login | FoodRecipes</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <div class="form-box">
-            <form action="" id="loginForm">
-                <p class="subtitle">Welcome back!</p>
-                <div class="input-group">
-                    <label for="email">Email</label>
-                    <input
-                        type="email"
-                        name="email"
-                        id="email"
-                        placeholder="Enter Email"
-                        required
-                    />
-                </div>
-                <div class="input-group">
-                    <label for="password">Password</label>
-                    <input
-                        type="password"
-                        name="password"
-                        id="password"
-                        placeholder="Enter Password"
-                        required
-                    />
-                </div>
-                <button type="submit">Login</button>
-                <p id="message" aria-live="polite"></p>
-            </form>
-            <p class="login-link">Don't have an Account? <a href="register.html">Register</a></p>
+<div class="container">
+    <div class="form-box">
+        <h2>FoodRecipes Login</h2>
+        <p class="subtitle">Login as User or Admin</p>
+        <form id="loginForm">
+            <div class="input-group">
+                <label for="role">Login Type</label>
+                <select id="role" required>
+                    <option value="user">User</option>
+                    <option value="admin">Admin</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="Enter Email" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter Password" required>
+            </div>
+            <button type="submit">Login</button>
+            <p id="message" aria-live="polite"></p>
+        </form>
+        <div class="demo-box">
+            <strong>Admin Demo Login</strong><br>
+            Email: admin@foodrecipes.com<br>
+            Password: admin123<br><br>
+            <strong>Registered Account:</strong> You can also use your registered user email and password.
         </div>
+        <p class="login-link">Don't have an account? <a href="register.html">Register</a></p>
+        <p class="login-link"><a href="index.html">Back to Home</a></p>
     </div>
-    <script>
-        document.getElementById("loginForm").addEventListener("submit", function (event) {
-            event.preventDefault();
-            const email = document.getElementById("email").value.trim();
-            const password = document.getElementById("password").value;
-            const message = document.getElementById("message");
-            const users = JSON.parse(localStorage.getItem("users")) || [];
-            const user = users.find(function (item) {
-                return item.email === email && item.password === password;
-            });
-            if (user) {
-                localStorage.setItem("loggedInUser", JSON.stringify(user));
-                message.textContent = "Login successful";
-                message.className = "success";
-                setTimeout(function () { window.location.href = "index.html"; }, 700);
-            } else {
-                message.textContent = "Invalid email or password";
-                message.className = "error";
-            }
-        });
-    </script>
+</div>
+<script>
+document.getElementById("loginForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    const role = document.getElementById("role").value;
+    const email = document.getElementById("email").value.trim().toLowerCase();
+    const password = document.getElementById("password").value;
+    const message = document.getElementById("message");
+
+    const users = JSON.parse(localStorage.getItem("users")) || [];
+
+    if (role === "admin") {
+        // Demo admin account still works.
+        if (email === "admin@foodrecipes.com" && password === "admin123") {
+            const admin = { name: "Administrator", email, role: "admin" };
+            localStorage.setItem("loggedInUser", JSON.stringify(admin));
+            window.location.href = "admin.html";
+            return;
+        }
+
+        // Also allow a registered account to enter the Admin Module
+        // when the same registered email and password are used.
+        const registeredUser = users.find(
+            item => item.email.toLowerCase() === email && item.password === password
+        );
+
+        if (registeredUser) {
+            const admin = {...registeredUser, role: "admin"};
+            localStorage.setItem("loggedInUser", JSON.stringify(admin));
+            window.location.href = "admin.html";
+        } else {
+            message.textContent = "Invalid registered email or password";
+            message.className = "error";
+        }
+        return;
+    }
+
+    const user = users.find(
+        item => item.email.toLowerCase() === email && item.password === password
+    );
+
+    if (user) {
+        const loggedUser = {...user, role: "user"};
+        localStorage.setItem("loggedInUser", JSON.stringify(loggedUser));
+        window.location.href = "user.html";
+    } else {
+        message.textContent = "Invalid user email or password";
+        message.className = "error";
+    }
+});
+</script>
 </body>
 </html>

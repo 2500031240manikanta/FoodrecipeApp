@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Module | FoodRecipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="module-page">
+<header class="module-header">
+    <div>
+        <h1>User Module</h1>
+        <p id="userWelcome"></p>
+    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <button id="logoutBtn" class="small-btn">Logout</button>
+    </nav>
+</header>
+
+<main class="module-content">
+    <section class="toolbar">
+        <input id="searchInput" type="search" placeholder="Search recipes...">
+        <select id="categoryFilter">
+            <option value="All">All Categories</option>
+            <option>Indian Vegetarian</option>
+            <option>Indian Non-Vegetarian</option>
+            <option>Breakfast</option>
+            <option>Desserts</option>
+            <option>Snacks</option>
+        </select>
+        <button id="favoritesBtn" class="secondary-btn">Show Favorites</button>
+        <button id="allBtn" class="secondary-btn">Show All</button>
+    </section>
+
+    <p id="recipeCount" class="count-text"></p>
+    <section id="recipeGrid" class="recipe-grid"></section>
+</main>
+
+<script>
+const currentUser = JSON.parse(localStorage.getItem("loggedInUser"));
+if (!currentUser || currentUser.role !== "user") {
+    window.location.href = "login.html";
+}
+
+document.getElementById("userWelcome").textContent = "Welcome, " + currentUser.name + "!";
+document.getElementById("logoutBtn").onclick = () => {
+    localStorage.removeItem("loggedInUser");
+    window.location.href = "index.html";
+};
+
+const defaultRecipes = [
+    {id: 1, name: "Chicken Biryani", category: "Indian Non-Vegetarian", image: "images.jpg", description: "Aromatic basmati rice cooked with spiced chicken."},
+    {id: 2, name: "Butter Chicken", category: "Indian Non-Vegetarian", image: "https://media1.agfg.com.au/images/listing/75681/gallery/pint-size-indian-4.jpg", description: "Creamy tomato-based chicken curry."},
+    {id: 3, name: "Paneer Tikka", category: "Indian Vegetarian", image: "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy%2Cf_auto%2Cq_auto%2Cw_300%2Ch_300%2Cc_fit/FOOD_CATALOG/IMAGES/CMS/2025/12/11/77a31327-2ca8-4f70-bd78-96513b8db20d_838cbe58-c03b-4adc-a869-a2aa3cc704c0.jpg", description: "Grilled paneer marinated with Indian spices."},
+    {id: 4, name: "Masala Dosa", category: "Indian Vegetarian", image: "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?auto=format&fit=crop&w=800&q=80", description: "Crispy dosa served with potato masala."}
+];
+
+function getRecipes() {
+    const saved = JSON.parse(localStorage.getItem("recipes"));
+    if (!saved || !saved.length) {
+        localStorage.setItem("recipes", JSON.stringify(defaultRecipes));
+        return defaultRecipes;
+    }
+    return saved;
+}
+
+let showFavorites = false;
+
+function isFavorite(id) {
+    const favorites = JSON.parse(localStorage.getItem("favorites_" + currentUser.email)) || [];
+    return favorites.includes(id);
+}
+
+function toggleFavorite(id) {
+    let favorites = JSON.parse(localStorage.getItem("favorites_" + currentUser.email)) || [];
+    favorites = favorites.includes(id) ? favorites.filter(x => x !== id) : [...favorites, id];
+    localStorage.setItem("favorites_" + currentUser.email, JSON.stringify(favorites));
+    renderRecipes();
+}
+
+function shareRecipe(name) {
+    if (navigator.share) {
+        navigator.share({title: name, text: "Check out this recipe: " + name});
+    } else {
+        navigator.clipboard?.writeText(name);
+        alert(name + " copied for sharing.");
+    }
+}
+
+function renderRecipes() {
+    const recipes = getRecipes();
+    const search = document.getElementById("searchInput").value.toLowerCase();
+    const category = document.getElementById("categoryFilter").value;
+
+    const filtered = recipes.filter(recipe => {
+        const matchesSearch = recipe.name.toLowerCase().includes(search) || recipe.description.toLowerCase().includes(search);
+        const matchesCategory = category === "All" || recipe.category === category;
+        const matchesFavorite = !showFavorites || isFavorite(recipe.id);
+        return matchesSearch && matchesCategory && matchesFavorite;
+    });
+
+    document.getElementById("recipeCount").textContent = filtered.length + " recipe(s) found";
+    document.getElementById("recipeGrid").innerHTML = filtered.map(recipe => `
+        <article class="recipe-card">
+            <img src="${recipe.image}" alt="${recipe.name}">
+            <div class="recipe-body">
+                <span class="category-tag">${recipe.category}</span>
+                <h3>${recipe.name}</h3>
+                <p>${recipe.description}</p>
+                <div class="card-actions">
+                    <button onclick="toggleFavorite(${recipe.id})">${isFavorite(recipe.id) ? "★ Saved" : "☆ Save"}</button>
+                    <button onclick="shareRecipe('${recipe.name.replace(/'/g, "\\'")}')">Share</button>
+                </div>
+            </div>
+        </article>
+    `).join("") || '<p class="empty-state">No recipes found.</p>';
+}
+
+document.getElementById("searchInput").addEventListener("input", renderRecipes);
+document.getElementById("categoryFilter").addEventListener("change", renderRecipes);
+document.getElementById("favoritesBtn").onclick = () => { showFavorites = true; renderRecipes(); };
+document.getElementById("allBtn").onclick = () => { showFavorites = false; renderRecipes(); };
+renderRecipes();
+</script>
+</body>
+</html>

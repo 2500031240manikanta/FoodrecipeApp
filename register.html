@@ -3,63 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Register</title>
+    <title>Register | FoodRecipes</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <div class="form-box">
-            <h2>Create Account</h2>
-            <p class="subtitle">Register to Get Started</p>
-            <form id="registerForm">
-                <div class="input-group">
-                    <label for="name">Full Name</label>
-                    <input type="text" name="fullname" id="name" placeholder="Enter Full Name" required>
-                </div>
-                <div class="input-group">
-                    <label for="email">Email</label>
-                    <input type="email" name="email" id="email" placeholder="Enter Email" required>
-                </div>
-                <div class="input-group">
-                    <label for="password">Password</label>
-                    <input type="password" name="password" id="password" placeholder="Enter Password" required>
-                </div>
-                <div class="input-group">
-                    <label for="cnfpassword">Confirm Password</label>
-                    <input type="password" name="cnfpassword" id="cnfpassword" placeholder="Confirm Password" required>
-                </div>
-                <button type="submit">Register</button>
-                <p id="message" class="message" aria-live="polite"></p>
-            </form>
-            <p class="login-link">Already Registered? <a href="login.html">Login</a></p>
-        </div>
+<div class="container">
+    <div class="form-box">
+        <h2>Create User Account</h2>
+        <p class="subtitle">Register to use the User Module</p>
+        <form id="registerForm">
+            <div class="input-group">
+                <label for="name">Full Name</label>
+                <input type="text" id="name" placeholder="Enter Full Name" required>
+            </div>
+            <div class="input-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="Enter Email" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Enter Password" required>
+            </div>
+            <div class="input-group">
+                <label for="cnfpassword">Confirm Password</label>
+                <input type="password" id="cnfpassword" placeholder="Confirm Password" required>
+            </div>
+            <button type="submit">Register</button>
+            <p id="message" aria-live="polite"></p>
+        </form>
+        <p class="login-link">Already registered? <a href="login.html">Login</a></p>
+        <p class="login-link"><a href="index.html">Back to Home</a></p>
     </div>
-    <script>
-        document.getElementById("registerForm").addEventListener("submit", function (event) {
-            event.preventDefault();
-            const name = document.getElementById("name").value.trim();
-            const email = document.getElementById("email").value.trim();
-            const password = document.getElementById("password").value;
-            const confirmPassword = document.getElementById("cnfpassword").value;
-            const message = document.getElementById("message");
-            if (password !== confirmPassword) {
-                message.textContent = "Passwords do not match";
-                message.className = "error";
-                return;
-            }
-            const users = JSON.parse(localStorage.getItem("users")) || [];
-            if (users.some(function (user) { return user.email === email; })) {
-                message.textContent = "An account already exists with this email";
-                message.className = "error";
-                return;
-            }
-            users.push({ name: name, email: email, password: password });
-            localStorage.setItem("users", JSON.stringify(users));
-            message.textContent = "Registration successful. Redirecting to login...";
-            message.className = "success";
-            document.getElementById("registerForm").reset();
-            setTimeout(function () { window.location.href = "login.html"; }, 1000);
-        });
-    </script>
+</div>
+<script>
+document.getElementById("registerForm").addEventListener("submit", function(event) {
+    event.preventDefault();
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim().toLowerCase();
+    const password = document.getElementById("password").value;
+    const confirmPassword = document.getElementById("cnfpassword").value;
+    const message = document.getElementById("message");
+
+    if (password !== confirmPassword) {
+        message.textContent = "Passwords do not match";
+        message.className = "error";
+        return;
+    }
+
+    const users = JSON.parse(localStorage.getItem("users")) || [];
+    if (users.some(user => user.email.toLowerCase() === email)) {
+        message.textContent = "An account already exists with this email";
+        message.className = "error";
+        return;
+    }
+
+    users.push({name, email, password, role: "user"});
+    localStorage.setItem("users", JSON.stringify(users));
+
+    message.textContent = "Registration successful. Redirecting to login...";
+    message.className = "success";
+    this.reset();
+
+    setTimeout(() => window.location.href = "login.html", 1000);
+});
+</script>
 </body>
 </html>
