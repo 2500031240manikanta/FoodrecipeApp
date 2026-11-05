@@ -1,1 +1,0 @@
-This project is made for food recipes for users who are finding it difficult to search recipes online, save and share them this web application provides the users to save, share and prepare the food item accordingly
