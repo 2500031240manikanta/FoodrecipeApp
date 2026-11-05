@@ -1,6 +1,6 @@
 # RecipeHub
 
-RecipeHub is a React and Vite recipe app with a small Node.js server for shared comments and administrator comment moderation.
+RecipeHub is a React and Vite recipe app. Visitors can browse recipes without an account. Saving, sharing, rating, submitting recipes, and posting comments require login. A small Node.js server stores comments shared across users and enforces administrator-only comment deletion.
 
 ## Run locally
 
@@ -13,7 +13,7 @@ Vite forwards `/api` requests to the server on port 3001. For a production build
 
 ## Comments and permissions
 
-Comments are stored in `data/comments.json` on the server and are shared by every browser connected to that same running deployment. Regular signed-in users can post comments and read comments on a recipe. The admin dashboard has a **Manage Comments** section. Deleting a comment requires a server-issued administrator session; the comment deletion API rejects requests without it.
+Comments are stored in `data/comments.json` on the server and are shared by every browser connected to that same running deployment. Visitors can read recipe comments; signed-in users can post them. The admin dashboard has a **Manage Comments** section. Deleting a comment requires a server-issued administrator session; the comment deletion API rejects requests without it.
 
 For a multi-instance or public production deployment, place the app behind HTTPS and use a shared database and durable session storage. The included JSON file and in-memory admin sessions are intended for a single-server deployment.
 
