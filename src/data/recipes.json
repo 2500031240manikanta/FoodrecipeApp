@@ -1,0 +1,5848 @@
+{
+  "indianVegetarianNames": [
+    "Paneer Butter Masala",
+    "Palak Paneer",
+    "Chole",
+    "Aloo Gobi",
+    "Masala Dosa",
+    "Vegetable Biryani",
+    "Dal Tadka",
+    "Rajma Masala",
+    "Kadai Paneer",
+    "Shahi Paneer",
+    "Matar Paneer",
+    "Malai Kofta",
+    "Dal Makhani",
+    "Aloo Matar",
+    "Bhindi Masala",
+    "Baingan Bharta",
+    "Jeera Aloo",
+    "Vegetable Korma",
+    "Navratan Korma",
+    "Mushroom Masala",
+    "Chana Masala",
+    "Pav Bhaji",
+    "Pani Puri",
+    "Bhel Puri",
+    "Samosa",
+    "Pakora",
+    "Dhokla",
+    "Idli",
+    "Medu Vada",
+    "Uttapam",
+    "Poha",
+    "Upma",
+    "Vegetable Pulao",
+    "Lemon Rice",
+    "Curd Rice",
+    "Tamarind Rice",
+    "Tomato Rice",
+    "Coconut Rice",
+    "Palak Corn",
+    "Methi Matar Malai",
+    "Aloo Palak",
+    "Lauki Kofta",
+    "Karela Masala",
+    "Tinda Masala",
+    "Stuffed Capsicum",
+    "Vegetable Handi",
+    "Paneer Tikka",
+    "Hara Bhara Kebab",
+    "Dum Aloo",
+    "Kashmiri Pulao"
+  ],
+  "indianNonVegetarianNames": [
+    "Chicken Biryani",
+    "Butter Chicken",
+    "Chicken Tikka",
+    "Mutton Curry",
+    "Fish Curry",
+    "Egg Curry",
+    "Chicken Curry",
+    "Chicken Korma",
+    "Chicken Chettinad",
+    "Chicken 65",
+    "Chicken Manchurian",
+    "Tandoori Chicken",
+    "Chicken Tikka Masala",
+    "Chicken Vindaloo",
+    "Chicken Saag",
+    "Chicken Do Pyaza",
+    "Chicken Handi",
+    "Chicken Kolhapuri",
+    "Chicken Rogan Josh",
+    "Mutton Biryani",
+    "Mutton Korma",
+    "Mutton Rogan Josh",
+    "Mutton Keema",
+    "Mutton Vindaloo",
+    "Mutton Do Pyaza",
+    "Mutton Masala",
+    "Mutton Handi",
+    "Lamb Curry",
+    "Fish Fry",
+    "Fish Tikka",
+    "Fish Masala",
+    "Goan Fish Curry",
+    "Kerala Fish Curry",
+    "Andhra Fish Curry",
+    "Prawn Curry",
+    "Prawn Masala",
+    "Prawn Fry",
+    "Garlic Prawns",
+    "Crab Curry",
+    "Egg Biryani",
+    "Egg Masala",
+    "Egg Bhurji",
+    "Keema Curry",
+    "Chicken Seekh Kebab",
+    "Mutton Seekh Kebab",
+    "Chicken Malai Tikka",
+    "Chicken Reshmi Kebab",
+    "Tandoori Fish",
+    "Hyderabadi Chicken",
+    "Hyderabadi Mutton"
+  ],
+  "westernNames": [
+    "Margherita Pizza",
+    "Pepperoni Pizza",
+    "Four Cheese Pizza",
+    "Pasta Alfredo",
+    "Spaghetti Carbonara",
+    "Spaghetti Bolognese",
+    "Lasagna",
+    "Mushroom Risotto",
+    "Bruschetta",
+    "Gnocchi",
+    "Mac and Cheese",
+    "Chicken Parmesan",
+    "Chicken Fettuccine",
+    "Beef Steak",
+    "Beef Burger",
+    "Chicken Burger",
+    "Fish and Chips",
+    "Chicken Nuggets",
+    "Chicken Wings",
+    "Grilled Chicken",
+    "Caesar Salad",
+    "Greek Salad",
+    "Tacos",
+    "Chicken Tacos",
+    "Beef Tacos",
+    "Chicken Quesadilla",
+    "Nachos",
+    "Enchiladas",
+    "Burrito",
+    "Fajitas",
+    "Guacamole",
+    "Churros",
+    "French Onion Soup",
+    "French Ratatouille",
+    "Croque Monsieur",
+    "Quiche Lorraine",
+    "Coq au Vin",
+    "Beef Bourguignon",
+    "Spanish Paella",
+    "Spanish Omelette",
+    "Patatas Bravas",
+    "Greek Moussaka",
+    "Greek Souvlaki",
+    "Falafel Wrap",
+    "Hummus Plate",
+    "Shakshuka",
+    "Thai Green Curry",
+    "Japanese Ramen",
+    "Korean Bibimbap",
+    "Vietnamese Pho"
+  ],
+  "dessertNames": [
+    "Gulab Jamun",
+    "Rasmalai",
+    "Jalebi",
+    "Kheer",
+    "Gajar Halwa",
+    "Rasgulla",
+    "Kulfi",
+    "Chocolate Cake",
+    "Vanilla Cake",
+    "Red Velvet Cake",
+    "Black Forest Cake",
+    "Cheesecake",
+    "New York Cheesecake",
+    "Chocolate Brownie",
+    "Fudge Brownie",
+    "Chocolate Mousse",
+    "Vanilla Mousse",
+    "Fruit Custard",
+    "Fruit Tart",
+    "Apple Pie",
+    "Pumpkin Pie",
+    "Lemon Tart",
+    "Chocolate Tart",
+    "Strawberry Tart",
+    "Tiramisu",
+    "Panna Cotta",
+    "Creme Brulee",
+    "Cannoli",
+    "Macarons",
+    "Donuts",
+    "Chocolate Donuts",
+    "Cinnamon Rolls",
+    "Waffles",
+    "Belgian Waffles",
+    "Pancakes",
+    "Chocolate Pancakes",
+    "French Crepes",
+    "Churros Dessert",
+    "Vanilla Ice Cream",
+    "Chocolate Ice Cream",
+    "Strawberry Ice Cream",
+    "Mango Ice Cream",
+    "Chocolate Sundae",
+    "Banana Split",
+    "Chocolate Lava Cake",
+    "Carrot Cake",
+    "Banana Bread",
+    "Rice Pudding",
+    "Bread Pudding",
+    "Baklava"
+  ],
+  "healthyNames": [
+    "Grilled Chicken Salad",
+    "Fresh Vegetable Salad",
+    "Healthy Oats Bowl",
+    "Fruit Smoothie Bowl",
+    "Quinoa Vegetable Bowl",
+    "Grilled Fish",
+    "Avocado Toast",
+    "Greek Yogurt Bowl",
+    "Overnight Oats",
+    "Chia Seed Pudding",
+    "Berry Smoothie",
+    "Green Smoothie",
+    "Banana Oat Smoothie",
+    "Protein Smoothie",
+    "Chicken Quinoa Salad",
+    "Tuna Salad",
+    "Salmon Salad",
+    "Egg Salad",
+    "Chickpea Salad",
+    "Lentil Salad",
+    "Sprout Salad",
+    "Mediterranean Salad",
+    "Quinoa Salad",
+    "Brown Rice Bowl",
+    "Vegetable Soup",
+    "Lentil Soup",
+    "Tomato Soup",
+    "Chicken Vegetable Soup",
+    "Minestrone Soup",
+    "Grilled Vegetable Wrap",
+    "Chicken Lettuce Wrap",
+    "Whole Wheat Sandwich",
+    "Avocado Sandwich",
+    "Hummus Vegetable Wrap",
+    "Baked Sweet Potato",
+    "Sweet Potato Bowl",
+    "Roasted Vegetables",
+    "Steamed Vegetable Bowl",
+    "Vegetable Stir Fry",
+    "Tofu Stir Fry",
+    "Grilled Tofu",
+    "Baked Salmon",
+    "Herb Grilled Fish",
+    "Chicken Brown Rice Bowl",
+    "Turkey Salad",
+    "Oatmeal with Berries",
+    "Apple Cinnamon Oatmeal",
+    "Peanut Butter Banana Bowl",
+    "Nut and Fruit Bowl",
+    "Healthy Vegetable Pasta"
+  ],
+  "indianVegDetails": {
+    "Paneer Butter Masala": {
+      "ingredients": [
+        "Paneer – 250 g, cubed",
+        "Tomatoes – 4 medium, chopped",
+        "Cashews – 12–15",
+        "Butter – 2 tbsp",
+        "Oil – 1 tbsp",
+        "Onion – 1 medium, chopped",
+        "Ginger-garlic paste – 1 tsp",
+        "Kashmiri chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Kasuri methi – 1 tsp",
+        "Sugar – ½ tsp",
+        "Cream – 2–3 tbsp",
+        "Milk/water – ½ cup",
+        "Salt – to taste"
+      ],
+      "steps": [
+        "Heat 1 tsp oil and sauté onion, tomatoes, cashews and ginger until soft.",
+        "Cool and blend into a smooth paste.",
+        "Heat butter and remaining oil in a pan.",
+        "Add the tomato-cashew paste and cook until the raw smell disappears and the mixture thickens.",
+        "Add chilli powder, coriander powder, garam masala, sugar and salt.",
+        "Add milk/water and simmer for 5–7 minutes.",
+        "Add paneer cubes and cook gently for 3–4 minutes.",
+        "Crush kasuri methi between your palms and add it.",
+        "Stir in cream and serve hot."
+      ]
+    },
+    "Palak Paneer": {
+      "ingredients": [
+        "Paneer – 250 g",
+        "Spinach – 500 g",
+        "Onion – 1 medium",
+        "Tomato – 1",
+        "Green chillies – 2",
+        "Ginger – 1 inch",
+        "Garlic – 4 cloves",
+        "Cumin seeds – 1 tsp",
+        "Turmeric – ¼ tsp",
+        "Red chilli powder – ½ tsp",
+        "Garam masala – ½ tsp",
+        "Cream – 2 tbsp",
+        "Oil/butter – 2 tbsp",
+        "Salt – to taste"
+      ],
+      "steps": [
+        "Wash spinach thoroughly.",
+        "Blanch spinach in boiling water for 2 minutes.",
+        "Transfer immediately to cold water.",
+        "Blend spinach with green chillies into a smooth puree.",
+        "Heat oil and add cumin.",
+        "Add onion and sauté until golden.",
+        "Add ginger and garlic and cook briefly.",
+        "Add tomato, turmeric and chilli powder.",
+        "Cook until tomato becomes soft.",
+        "Add spinach puree and simmer for 4–5 minutes.",
+        "Add paneer and garam masala.",
+        "Cook gently for 2–3 minutes.",
+        "Add cream and serve."
+      ]
+    },
+    "Chole": {
+      "ingredients": [
+        "Chickpeas – 250 g, soaked overnight",
+        "Onion – 2",
+        "Tomatoes – 2",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 2",
+        "Chole masala – 2 tsp",
+        "Coriander powder – 1 tsp",
+        "Cumin powder – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – 1 tsp",
+        "Amchur powder – ½ tsp",
+        "Cumin seeds – 1 tsp",
+        "Oil – 3 tbsp",
+        "Coriander leaves",
+        "Salt"
+      ],
+      "steps": [
+        "Pressure-cook soaked chickpeas with salt until tender.",
+        "Heat oil and add cumin.",
+        "Add onions and cook until golden.",
+        "Add ginger-garlic paste and green chilli.",
+        "Add tomatoes and cook until soft.",
+        "Add all powdered spices.",
+        "Cook until oil separates.",
+        "Add cooked chickpeas and some cooking water.",
+        "Simmer for 10–15 minutes.",
+        "Mash a few chickpeas to thicken the gravy.",
+        "Add amchur and coriander."
+      ]
+    },
+    "Aloo Gobi": {
+      "ingredients": [
+        "Potatoes – 3 medium",
+        "Cauliflower – 1 medium",
+        "Onion – 1",
+        "Tomato – 2",
+        "Ginger – 1 tsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – 1 tsp",
+        "Coriander powder – 1½ tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander leaves",
+        "Salt"
+      ],
+      "steps": [
+        "Cut potatoes and cauliflower into medium pieces.",
+        "Heat oil and lightly fry potatoes.",
+        "Remove and fry cauliflower briefly.",
+        "In the same pan, add cumin.",
+        "Add onion and cook until translucent.",
+        "Add ginger and green chilli.",
+        "Add tomatoes and spices.",
+        "Cook until tomatoes soften.",
+        "Add potatoes and cauliflower.",
+        "Cover and cook on low heat until tender.",
+        "Sprinkle garam masala and coriander."
+      ]
+    },
+    "Masala Dosa": {
+      "ingredients": [
+        "Raw rice – 2 cups",
+        "Urad dal – ½ cup",
+        "Chana dal – 2 tbsp",
+        "Fenugreek seeds – ½ tsp",
+        "Salt",
+        "Water",
+        "Potatoes – 4",
+        "Onion – 2",
+        "Green chillies – 2",
+        "Ginger – 1 tsp",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Chana dal – 1 tsp",
+        "Curry leaves",
+        "Turmeric – ½ tsp",
+        "Oil – 2 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and soak rice, urad dal, chana dal and fenugreek separately for 4–6 hours.",
+        "Grind with water into a smooth batter.",
+        "Mix and ferment overnight.",
+        "Boil and mash potatoes.",
+        "Heat oil and temper mustard, urad dal and chana dal.",
+        "Add curry leaves, onion, ginger and green chilli.",
+        "Add turmeric and potatoes.",
+        "Season with salt and coriander.",
+        "Heat a flat pan and spread a thin layer of fermented batter.",
+        "Drizzle oil and cook until crisp.",
+        "Place potato filling inside.",
+        "Fold and serve."
+      ]
+    },
+    "Vegetable Biryani": {
+      "ingredients": [
+        "Basmati rice – 2 cups",
+        "Mixed vegetables – 3 cups",
+        "Onion – 2",
+        "Tomato – 2",
+        "Yogurt – ½ cup",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chillies – 2",
+        "Mint – ½ cup",
+        "Coriander – ½ cup",
+        "Biryani masala – 2 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – 1 tsp",
+        "Whole spices – bay leaf, cinnamon, cloves, cardamom",
+        "Ghee/oil – 4 tbsp",
+        "Saffron – pinch",
+        "Warm milk – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Soak rice for 30 minutes.",
+        "Boil rice with whole spices and salt until about 70% cooked.",
+        "Heat oil and fry sliced onions until golden.",
+        "Add whole spices and ginger-garlic paste.",
+        "Add vegetables, tomato, yogurt and spices.",
+        "Cook until vegetables are partly tender.",
+        "Layer vegetable masala and rice.",
+        "Add mint, coriander and fried onions.",
+        "Add saffron soaked in warm milk.",
+        "Cover tightly and cook on low heat for 15–20 minutes.",
+        "Rest for 10 minutes before serving."
+      ]
+    },
+    "Dal Tadka": {
+      "ingredients": [
+        "Toor dal – 1 cup",
+        "Water – 3 cups",
+        "Turmeric – ½ tsp",
+        "Tomato – 1",
+        "Onion – 1",
+        "Green chilli – 1",
+        "Garlic – 5 cloves",
+        "Cumin – 1 tsp",
+        "Dried red chillies – 2",
+        "Hing – pinch",
+        "Ghee – 2 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Wash dal and pressure-cook with water and turmeric.",
+        "Mash the cooked dal.",
+        "Add tomato, salt and a little water and simmer.",
+        "Heat ghee separately.",
+        "Add cumin, dried red chilli and hing.",
+        "Add sliced garlic and fry until lightly golden.",
+        "Pour the hot tadka over the dal.",
+        "Garnish with coriander."
+      ]
+    },
+    "Rajma Masala": {
+      "ingredients": [
+        "Rajma – 1 cup",
+        "Onion – 2",
+        "Tomatoes – 3",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – 1 tsp",
+        "Coriander powder – 2 tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Soak rajma overnight.",
+        "Pressure-cook until completely tender.",
+        "Heat oil and cumin.",
+        "Add onions and cook until golden.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and powdered spices.",
+        "Cook until oil separates.",
+        "Add rajma and cooking water.",
+        "Simmer for 15–20 minutes.",
+        "Mash a few beans to thicken the gravy.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Kadai Paneer": {
+      "ingredients": [
+        "Paneer – 250 g",
+        "Capsicum – 1",
+        "Onion – 1",
+        "Tomatoes – 3",
+        "Ginger-garlic paste – 1 tsp",
+        "Coriander seeds – 1½ tbsp",
+        "Dried Kashmiri red chillies – 5–6",
+        "Cumin – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Kasuri methi – 1 tsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Dry-roast coriander seeds and dried red chillies.",
+        "Cool and grind coarsely.",
+        "Heat oil and sauté onion and capsicum.",
+        "Remove and reserve.",
+        "Add ginger-garlic paste.",
+        "Add chopped tomatoes.",
+        "Cook until soft and oil separates.",
+        "Add ground kadai masala.",
+        "Add paneer and a little water.",
+        "Add sautéed capsicum and onion.",
+        "Cook for 3–4 minutes.",
+        "Finish with garam masala and kasuri methi."
+      ]
+    },
+    "Shahi Paneer": {
+      "ingredients": [
+        "Paneer – 250 g",
+        "Onion – 1",
+        "Tomatoes – 2",
+        "Cashews – 15",
+        "Almonds – 8",
+        "Yogurt – ½ cup",
+        "Cream – ¼ cup",
+        "Ginger-garlic paste – 1 tsp",
+        "Cardamom – 3",
+        "Cinnamon – 1 inch",
+        "Garam masala – ½ tsp",
+        "Kashmiri chilli powder – 1 tsp",
+        "Butter/ghee – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cook onion, tomatoes and nuts until soft.",
+        "Blend into a smooth paste.",
+        "Heat butter and whole spices.",
+        "Add ginger-garlic paste.",
+        "Add the blended mixture.",
+        "Cook until the raw smell disappears.",
+        "Add chilli powder and garam masala.",
+        "Lower the heat and add whisked yogurt.",
+        "Add water as required.",
+        "Add paneer and simmer.",
+        "Finish with cream."
+      ]
+    },
+    "Matar Paneer": {
+      "ingredients": [
+        "Paneer – 250 g",
+        "Green peas – 1½ cups",
+        "Onion – 2",
+        "Tomatoes – 2",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – 1 tsp",
+        "Coriander powder – 1½ tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil and lightly fry paneer.",
+        "Remove and reserve.",
+        "Add cumin and onions.",
+        "Cook until golden.",
+        "Add ginger-garlic paste and green chilli.",
+        "Add tomatoes and spices.",
+        "Cook until oil separates.",
+        "Add peas and water.",
+        "Cover and cook until peas are tender.",
+        "Add paneer.",
+        "Simmer for 5 minutes.",
+        "Add garam masala and coriander."
+      ]
+    },
+    "Malai Kofta": {
+      "ingredients": [
+        "Paneer – 200 g",
+        "Potatoes – 2, boiled",
+        "Cornflour – 2 tbsp",
+        "Cashews – 2 tbsp, chopped",
+        "Raisins – 1 tbsp",
+        "Red chilli powder – ¼ tsp",
+        "Garam masala – ¼ tsp",
+        "Salt",
+        "Oil for frying",
+        "Onion – 1",
+        "Tomatoes – 3",
+        "Cashews – 12",
+        "Ginger-garlic paste – 1 tsp",
+        "Cream – ¼ cup",
+        "Butter – 1 tbsp",
+        "Garam masala – ½ tsp",
+        "Kasuri methi – ½ tsp",
+        "Salt"
+      ],
+      "steps": [
+        "Mash paneer and potatoes.",
+        "Mix cornflour, spices, nuts, raisins and salt.",
+        "Shape into small balls.",
+        "Deep-fry until golden.",
+        "Cook onion, tomatoes and cashews for the gravy.",
+        "Blend until smooth.",
+        "Heat butter and cook the puree.",
+        "Add spices and salt.",
+        "Add water and simmer.",
+        "Add cream.",
+        "Place koftas into the gravy just before serving."
+      ]
+    },
+    "Dal Makhani": {
+      "ingredients": [
+        "Whole black urad dal – 1 cup",
+        "Rajma – ¼ cup",
+        "Butter – 3 tbsp",
+        "Cream – ½ cup",
+        "Tomato puree – 1 cup",
+        "Ginger – 1 tbsp",
+        "Garlic – 1 tbsp",
+        "Kashmiri chilli powder – 1½ tsp",
+        "Garam masala – ½ tsp",
+        "Salt",
+        "Water"
+      ],
+      "steps": [
+        "Wash and soak urad dal and rajma overnight.",
+        "Pressure-cook until very soft.",
+        "Mash lightly.",
+        "Heat butter and sauté ginger and garlic.",
+        "Add tomato puree and chilli powder.",
+        "Cook until the tomato mixture thickens.",
+        "Add cooked dal and rajma.",
+        "Add water and simmer on low heat.",
+        "Cook slowly for at least 20–30 minutes, stirring periodically.",
+        "Add garam masala.",
+        "Add cream.",
+        "Finish with butter."
+      ]
+    },
+    "Aloo Matar": {
+      "ingredients": [
+        "Potatoes – 3",
+        "Green peas – 1½ cups",
+        "Onion – 1",
+        "Tomato – 2",
+        "Ginger-garlic paste – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 2 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil and cumin.",
+        "Add onion and cook until golden.",
+        "Add ginger-garlic paste.",
+        "Add tomato and spices.",
+        "Cook until oil separates.",
+        "Add potatoes and peas.",
+        "Add water.",
+        "Cover and cook until potatoes are tender.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Bhindi Masala": {
+      "ingredients": [
+        "Bhindi – 500 g",
+        "Onion – 2",
+        "Tomato – 2",
+        "Green chilli – 1",
+        "Ginger – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1½ tsp",
+        "Amchur – ½ tsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and completely dry bhindi.",
+        "Cut into pieces.",
+        "Shallow-fry bhindi until lightly crisp.",
+        "Remove and reserve.",
+        "Add cumin and onion to the pan.",
+        "Add ginger and green chilli.",
+        "Add tomato and spices.",
+        "Cook until tomato softens.",
+        "Add fried bhindi.",
+        "Add amchur.",
+        "Cook uncovered for several minutes."
+      ]
+    },
+    "Baingan Bharta": {
+      "ingredients": [
+        "Large eggplant – 1",
+        "Onion – 2",
+        "Tomatoes – 2",
+        "Green chillies – 2",
+        "Ginger – 1 tsp",
+        "Garlic – 4 cloves",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Oil – 2 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Make small cuts in the eggplant.",
+        "Roast directly over flame or in an oven until completely soft and charred.",
+        "Cool and remove the skin.",
+        "Mash the roasted flesh.",
+        "Heat oil and cumin.",
+        "Add onion, ginger, garlic and green chilli.",
+        "Add tomatoes and spices.",
+        "Cook until tomatoes soften.",
+        "Add mashed eggplant.",
+        "Cook for 8–10 minutes.",
+        "Garnish with coriander."
+      ]
+    },
+    "Jeera Aloo": {
+      "ingredients": [
+        "Potatoes – 500 g",
+        "Cumin seeds – 2 tsp",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Red chilli powder – ½ tsp",
+        "Coriander powder – 1 tsp",
+        "Amchur – ½ tsp",
+        "Oil – 2 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Boil potatoes until just tender.",
+        "Peel and cut into cubes.",
+        "Heat oil and add cumin.",
+        "Add ginger and green chilli.",
+        "Add potatoes and turmeric.",
+        "Add chilli and coriander powder.",
+        "Toss gently.",
+        "Cook until potatoes become lightly crisp.",
+        "Add amchur and coriander."
+      ]
+    },
+    "Vegetable Korma": {
+      "ingredients": [
+        "Mixed vegetables – 3 cups",
+        "Onion – 2",
+        "Tomato – 1",
+        "Yogurt – ½ cup",
+        "Cashews – 12",
+        "Almonds – 8",
+        "Coconut – ¼ cup",
+        "Ginger-garlic paste – 1 tbsp",
+        "Cardamom – 3",
+        "Cinnamon – 1 inch",
+        "Cloves – 3",
+        "Coriander powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Cream – 2 tbsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cook mixed vegetables until partly tender.",
+        "Blend cashews, almonds and coconut with a little water.",
+        "Heat oil and add whole spices.",
+        "Add onion and cook until golden.",
+        "Add ginger-garlic paste.",
+        "Add tomato.",
+        "Add powdered spices.",
+        "Add nut-coconut paste.",
+        "Cook until oil separates.",
+        "Add vegetables and water.",
+        "Simmer until fully tender.",
+        "Lower heat and add yogurt and cream."
+      ]
+    },
+    "Navratan Korma": {
+      "ingredients": [
+        "Mixed vegetables – 2 cups",
+        "Paneer – 100 g",
+        "Green peas – ½ cup",
+        "Pineapple – ½ cup",
+        "Cashews – 12",
+        "Almonds – 8",
+        "Raisins – 1 tbsp",
+        "Onion – 1",
+        "Tomato – 1",
+        "Yogurt – ½ cup",
+        "Cream – ¼ cup",
+        "Ginger-garlic paste – 1 tsp",
+        "Cardamom – 2",
+        "Cinnamon – 1 inch",
+        "Garam masala – ½ tsp",
+        "Oil/ghee – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cook vegetables until tender but not mushy.",
+        "Fry paneer lightly.",
+        "Prepare onion-tomato paste.",
+        "Cook whole spices in ghee.",
+        "Add ginger-garlic paste.",
+        "Add the onion-tomato paste.",
+        "Add yogurt and spices.",
+        "Add vegetables and peas.",
+        "Add paneer, pineapple and dry fruits.",
+        "Add cream.",
+        "Simmer gently for 5 minutes."
+      ]
+    },
+    "Mushroom Masala": {
+      "ingredients": [
+        "Button mushrooms – 400 g",
+        "Onion – 2",
+        "Tomato – 3",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1½ tsp",
+        "Garam masala – ½ tsp",
+        "Kasuri methi – 1 tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Clean mushrooms and slice them.",
+        "Heat oil and sauté mushrooms until moisture evaporates.",
+        "Remove and reserve.",
+        "Add cumin and onions.",
+        "Add ginger-garlic paste and green chilli.",
+        "Add tomatoes and spices.",
+        "Cook until oil separates.",
+        "Add mushrooms.",
+        "Add a little water and simmer.",
+        "Finish with garam masala and kasuri methi."
+      ]
+    },
+    "Chana Masala": {
+      "ingredients": [
+        "Chickpeas – 1½ cups cooked",
+        "Onion – 2",
+        "Tomato – 3",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Chana masala – 2 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Amchur – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil and cumin.",
+        "Add onions and cook until brown.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and spices.",
+        "Cook until thick.",
+        "Add chickpeas.",
+        "Add water and simmer for 15 minutes.",
+        "Mash a few chickpeas.",
+        "Add amchur and coriander."
+      ]
+    },
+    "Pav Bhaji": {
+      "ingredients": [
+        "Potatoes – 3",
+        "Cauliflower – 1 cup",
+        "Green peas – ½ cup",
+        "Carrot – 1",
+        "Capsicum – 1",
+        "Onion – 2",
+        "Tomatoes – 4",
+        "Ginger-garlic paste – 1 tbsp",
+        "Pav bhaji masala – 2 tbsp",
+        "Kashmiri chilli powder – 1 tsp",
+        "Butter – 3 tbsp",
+        "Coriander",
+        "Lemon",
+        "Pav",
+        "Salt"
+      ],
+      "steps": [
+        "Boil potatoes, cauliflower, peas and carrot.",
+        "Mash them.",
+        "Heat butter in a wide pan.",
+        "Add onion and capsicum.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and cook until soft.",
+        "Add pav bhaji masala and chilli powder.",
+        "Add mashed vegetables.",
+        "Add water and mash everything together while cooking.",
+        "Simmer until thick.",
+        "Toast pav with butter.",
+        "Serve with onion, coriander and lemon."
+      ]
+    },
+    "Pani Puri": {
+      "ingredients": [
+        "Small puris – 30",
+        "Potatoes – 3",
+        "Chickpeas – 1 cup cooked",
+        "Onion – 1",
+        "Coriander",
+        "Mint – 1 cup",
+        "Green chillies – 2",
+        "Tamarind – 2 tbsp",
+        "Roasted cumin powder – 1 tsp",
+        "Chaat masala – 1 tsp",
+        "Black salt – 1 tsp",
+        "Water – 4 cups"
+      ],
+      "steps": [
+        "Boil and mash potatoes.",
+        "Mix potatoes with chickpeas, onion, coriander and chaat masala.",
+        "Blend mint, coriander and green chilli with water.",
+        "Add tamarind, cumin and black salt.",
+        "Chill the pani.",
+        "Make a small hole in each puri.",
+        "Fill with potato-chickpea mixture.",
+        "Dip or fill with spiced pani.",
+        "Serve immediately."
+      ]
+    },
+    "Bhel Puri": {
+      "ingredients": [
+        "Puffed rice – 4 cups",
+        "Sev – 1 cup",
+        "Onion – 1",
+        "Tomato – 1",
+        "Boiled potato – 1",
+        "Coriander",
+        "Peanuts – ½ cup",
+        "Tamarind chutney – 3 tbsp",
+        "Green chutney – 2 tbsp",
+        "Chaat masala – 1 tsp",
+        "Lemon juice – 1 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Add puffed rice to a large bowl.",
+        "Add potato, onion, tomato and peanuts.",
+        "Add green chutney and tamarind chutney.",
+        "Add chaat masala and salt.",
+        "Add lemon juice.",
+        "Mix quickly.",
+        "Add sev and coriander.",
+        "Serve immediately to retain crunch."
+      ]
+    },
+    "Samosa": {
+      "ingredients": [
+        "Maida – 2 cups",
+        "Oil/ghee – 4 tbsp",
+        "Carom seeds – ½ tsp",
+        "Salt",
+        "Water",
+        "Potatoes – 4",
+        "Green peas – ½ cup",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Cumin – 1 tsp",
+        "Coriander seeds – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Amchur – ½ tsp",
+        "Red chilli powder – ½ tsp",
+        "Coriander",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Mix flour, salt, ajwain and oil.",
+        "Rub until the mixture becomes crumbly.",
+        "Add water gradually and make a firm dough.",
+        "Rest for 20–30 minutes.",
+        "Boil and mash potatoes.",
+        "Prepare the filling with peas and spices.",
+        "Divide dough into balls and roll into circles.",
+        "Cut each circle into two halves.",
+        "Form cones and fill.",
+        "Seal the edges.",
+        "Deep-fry on medium-low heat until golden and crisp."
+      ]
+    },
+    "Pakora": {
+      "ingredients": [
+        "Besan – 1½ cups",
+        "Onion – 2",
+        "Potato – 1",
+        "Green chilli – 2",
+        "Coriander",
+        "Red chilli powder – 1 tsp",
+        "Turmeric – ¼ tsp",
+        "Ajwain – ½ tsp",
+        "Baking soda – pinch",
+        "Water",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Slice onion and potato thinly.",
+        "Add vegetables, chilli and coriander to besan.",
+        "Add spices, ajwain and salt.",
+        "Add water gradually to make a thick batter.",
+        "Add a pinch of baking soda.",
+        "Heat oil.",
+        "Drop small portions into hot oil.",
+        "Fry until crisp and golden.",
+        "Drain on paper.",
+        "Serve hot with chutney."
+      ]
+    },
+    "Dhokla": {
+      "ingredients": [
+        "Besan – 2 cups",
+        "Yogurt – ½ cup",
+        "Water",
+        "Ginger-green chilli paste – 1 tsp",
+        "Turmeric – pinch",
+        "Sugar – 1 tsp",
+        "Lemon juice – 1 tbsp",
+        "Eno fruit salt – 1 tsp",
+        "Salt",
+        "Oil – 1 tbsp",
+        "Mustard seeds – 1 tsp",
+        "Sesame – 1 tsp",
+        "Curry leaves",
+        "Green chilli"
+      ],
+      "steps": [
+        "Mix besan, yogurt, water, ginger-chilli paste, sugar, lemon and salt.",
+        "Make a smooth batter.",
+        "Rest for 15–20 minutes.",
+        "Just before steaming, add Eno and mix gently.",
+        "Pour into a greased steaming tray.",
+        "Steam for 15–20 minutes.",
+        "Check with a toothpick.",
+        "Cool slightly and cut.",
+        "Prepare tempering.",
+        "Pour over dhokla and serve."
+      ]
+    },
+    "Idli": {
+      "ingredients": [
+        "Idli rice – 2 cups",
+        "Urad dal – ½ cup",
+        "Fenugreek seeds – ½ tsp",
+        "Salt",
+        "Water"
+      ],
+      "steps": [
+        "Wash rice and urad dal separately.",
+        "Soak for 4–6 hours.",
+        "Grind urad dal until fluffy.",
+        "Grind rice to a slightly coarse batter.",
+        "Mix both.",
+        "Ferment overnight.",
+        "Add salt.",
+        "Grease idli moulds.",
+        "Pour batter into moulds.",
+        "Steam for 10–12 minutes.",
+        "Rest for a few minutes before removing."
+      ]
+    },
+    "Medu Vada": {
+      "ingredients": [
+        "Urad dal – 1½ cups",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Black pepper – 1 tsp",
+        "Curry leaves",
+        "Coriander",
+        "Onion – 1, optional",
+        "Salt",
+        "Oil"
+      ],
+      "steps": [
+        "Soak urad dal for 4–5 hours.",
+        "Drain thoroughly.",
+        "Grind with very little water into a fluffy batter.",
+        "Add chilli, ginger, pepper, curry leaves, coriander and salt.",
+        "Beat the batter to incorporate air.",
+        "Wet your hand and shape a ball.",
+        "Make a hole in the center.",
+        "Carefully slide into hot oil.",
+        "Fry until golden and crisp.",
+        "Drain and serve."
+      ]
+    },
+    "Uttapam": {
+      "ingredients": [
+        "Dosa batter – 3 cups",
+        "Onion – 1",
+        "Tomato – 1",
+        "Capsicum – 1",
+        "Green chilli – 1",
+        "Coriander",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Prepare fermented dosa batter.",
+        "Heat a tawa.",
+        "Pour a thicker layer of batter.",
+        "Spread chopped onion, tomato, capsicum and chilli on top.",
+        "Press vegetables gently.",
+        "Drizzle oil around the edges.",
+        "Cook until the bottom is golden.",
+        "Flip carefully.",
+        "Cook the vegetable side briefly.",
+        "Serve hot."
+      ]
+    },
+    "Poha": {
+      "ingredients": [
+        "Thick poha – 2 cups",
+        "Onion – 1",
+        "Potato – 1",
+        "Green chilli – 2",
+        "Peanuts – ¼ cup",
+        "Mustard seeds – 1 tsp",
+        "Cumin – ½ tsp",
+        "Curry leaves",
+        "Turmeric – ½ tsp",
+        "Lemon juice – 1 tbsp",
+        "Coriander",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Rinse poha gently.",
+        "Drain and rest for 5–10 minutes.",
+        "Heat oil and fry peanuts.",
+        "Add mustard, cumin and curry leaves.",
+        "Add onion, potato and green chilli.",
+        "Cook until potato is tender.",
+        "Add turmeric and salt.",
+        "Add poha.",
+        "Mix gently without crushing it.",
+        "Cook for 3–4 minutes.",
+        "Add lemon juice and coriander."
+      ]
+    },
+    "Upma": {
+      "ingredients": [
+        "Rava/semolina – 1 cup",
+        "Water – 2½ cups",
+        "Onion – 1",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Chana dal – 1 tsp",
+        "Curry leaves",
+        "Cashews – optional",
+        "Oil/ghee – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Dry-roast rava until aromatic without browning.",
+        "Heat oil/ghee.",
+        "Add mustard, urad dal and chana dal.",
+        "Add curry leaves and cashews.",
+        "Add onion, ginger and chilli.",
+        "Cook until onion softens.",
+        "Add water and salt.",
+        "Bring to a boil.",
+        "Lower heat and slowly add rava while stirring.",
+        "Cook until water is absorbed.",
+        "Cover and rest for 2 minutes."
+      ]
+    },
+    "Vegetable Pulao": {
+      "ingredients": [
+        "Basmati rice – 2 cups",
+        "Mixed vegetables – 2 cups",
+        "Onion – 1",
+        "Green chilli – 2",
+        "Ginger-garlic paste – 1 tsp",
+        "Bay leaf – 1",
+        "Cinnamon – 1 inch",
+        "Cardamom – 3",
+        "Cloves – 3",
+        "Cumin – 1 tsp",
+        "Mint – ¼ cup",
+        "Coriander – ¼ cup",
+        "Oil/ghee – 3 tbsp",
+        "Water – 3½ cups",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and soak rice for 20–30 minutes.",
+        "Heat oil/ghee and add whole spices.",
+        "Add onion and cook until lightly golden.",
+        "Add ginger-garlic paste and chilli.",
+        "Add vegetables.",
+        "Drain and add rice.",
+        "Gently sauté for 1–2 minutes.",
+        "Add water and salt.",
+        "Add mint and coriander.",
+        "Cover and cook until rice is tender.",
+        "Rest for 10 minutes before fluffing."
+      ]
+    },
+    "Lemon Rice": {
+      "ingredients": [
+        "Cooked rice – 3 cups",
+        "Lemon juice – 3 tbsp",
+        "Peanuts – ¼ cup",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Chana dal – 1 tsp",
+        "Green chilli – 2",
+        "Dried red chilli – 2",
+        "Curry leaves",
+        "Turmeric – ½ tsp",
+        "Hing – pinch",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cool cooked rice completely.",
+        "Heat oil.",
+        "Add mustard, urad dal and chana dal.",
+        "Add peanuts and fry.",
+        "Add dried chilli, green chilli and curry leaves.",
+        "Add turmeric and hing.",
+        "Turn off or reduce heat.",
+        "Add lemon juice and salt.",
+        "Add rice and mix gently.",
+        "Rest for 10 minutes before serving."
+      ]
+    },
+    "Curd Rice": {
+      "ingredients": [
+        "Cooked rice – 3 cups",
+        "Thick curd – 2 cups",
+        "Milk – ½ cup",
+        "Ginger – 1 tsp",
+        "Green chilli – 1",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Curry leaves",
+        "Dried red chilli – 1",
+        "Coriander",
+        "Oil – 1 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Mash cooled cooked rice.",
+        "Add milk and mix.",
+        "Add whisked curd and salt.",
+        "Heat oil.",
+        "Add mustard, urad dal, red chilli and curry leaves.",
+        "Add ginger and green chilli.",
+        "Pour tempering over the rice.",
+        "Mix well.",
+        "Garnish with coriander.",
+        "Serve chilled or at room temperature."
+      ]
+    },
+    "Tamarind Rice": {
+      "ingredients": [
+        "Cooked rice – 3 cups",
+        "Tamarind – lemon-sized ball",
+        "Peanuts – ¼ cup",
+        "Sesame seeds – 1 tbsp",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Chana dal – 1 tsp",
+        "Dried red chillies – 3",
+        "Curry leaves",
+        "Turmeric – ½ tsp",
+        "Jaggery – 1 tsp",
+        "Hing – pinch",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Soak tamarind in warm water and extract pulp.",
+        "Cook the pulp with turmeric, jaggery and salt until thick.",
+        "Dry-roast sesame and grind coarsely.",
+        "Heat oil and prepare tempering with mustard, dals, chillies and curry leaves.",
+        "Add peanuts.",
+        "Add tamarind mixture.",
+        "Cook until oil begins to separate.",
+        "Add sesame powder.",
+        "Mix with cooled cooked rice.",
+        "Rest before serving."
+      ]
+    },
+    "Tomato Rice": {
+      "ingredients": [
+        "Basmati/short-grain rice – 2 cups",
+        "Tomatoes – 4",
+        "Onion – 1",
+        "Green chilli – 2",
+        "Ginger-garlic paste – 1 tbsp",
+        "Cinnamon – 1 inch",
+        "Cloves – 3",
+        "Cardamom – 2",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Mint",
+        "Coriander",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and soak rice.",
+        "Heat oil and fry whole spices.",
+        "Add onion and green chilli.",
+        "Add ginger-garlic paste.",
+        "Add chopped tomatoes.",
+        "Add turmeric and chilli powder.",
+        "Cook until tomatoes become soft.",
+        "Add rice.",
+        "Add water and salt.",
+        "Cover and cook until rice is tender.",
+        "Finish with garam masala, mint and coriander."
+      ]
+    },
+    "Coconut Rice": {
+      "ingredients": [
+        "Cooked rice – 3 cups",
+        "Fresh grated coconut – 1½ cups",
+        "Green chilli – 2",
+        "Mustard seeds – 1 tsp",
+        "Urad dal – 1 tsp",
+        "Chana dal – 1 tsp",
+        "Cashews – 2 tbsp",
+        "Curry leaves",
+        "Dried red chilli – 2",
+        "Hing – pinch",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cool cooked rice.",
+        "Heat oil and add mustard.",
+        "Add dals and cashews.",
+        "Add dried chilli and curry leaves.",
+        "Add green chilli and hing.",
+        "Add grated coconut.",
+        "Sauté gently for 2–3 minutes without browning the coconut.",
+        "Add rice and salt.",
+        "Mix gently.",
+        "Cook for 2 minutes and serve."
+      ]
+    },
+    "Palak Corn": {
+      "ingredients": [
+        "Spinach – 400 g",
+        "Sweet corn – 1½ cups",
+        "Onion – 1",
+        "Tomato – 1",
+        "Green chilli – 1",
+        "Ginger-garlic paste – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – ¼ tsp",
+        "Garam masala – ½ tsp",
+        "Cream – 2 tbsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Blanch spinach.",
+        "Cool and blend into puree.",
+        "Cook corn until tender.",
+        "Heat oil and cumin.",
+        "Add onion.",
+        "Add ginger-garlic paste and tomato.",
+        "Add spices.",
+        "Add spinach puree.",
+        "Simmer for 5 minutes.",
+        "Add corn.",
+        "Add cream and garam masala.",
+        "Simmer briefly and serve."
+      ]
+    },
+    "Methi Matar Malai": {
+      "ingredients": [
+        "Fresh methi leaves – 2 cups",
+        "Green peas – 1½ cups",
+        "Cream – ½ cup",
+        "Onion – 1",
+        "Cashews – 12",
+        "Almonds – 6",
+        "Ginger – 1 inch",
+        "Garlic – 3 cloves",
+        "Green chilli – 2",
+        "Cardamom – 2",
+        "Cumin – ½ tsp",
+        "Coriander powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and finely chop methi.",
+        "Blanch peas.",
+        "Blend onion, cashews, almonds, ginger, garlic and green chilli.",
+        "Heat oil and cumin.",
+        "Add cardamom.",
+        "Add the ground paste and cook until oil separates.",
+        "Add coriander powder.",
+        "Add methi and peas.",
+        "Add water as needed.",
+        "Cook until peas are tender.",
+        "Add cream and garam masala.",
+        "Simmer gently."
+      ]
+    },
+    "Aloo Palak": {
+      "ingredients": [
+        "Potatoes – 3",
+        "Spinach – 400 g",
+        "Onion – 1",
+        "Tomato – 1",
+        "Green chilli – 1",
+        "Ginger-garlic paste – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – ½ tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Boil potatoes and cut into cubes.",
+        "Blanch spinach and blend.",
+        "Heat oil and cumin.",
+        "Add onion.",
+        "Add ginger-garlic paste and tomato.",
+        "Add spices.",
+        "Add spinach puree.",
+        "Simmer for 5 minutes.",
+        "Add potatoes.",
+        "Cook for another 5 minutes.",
+        "Add garam masala."
+      ]
+    },
+    "Lauki Kofta": {
+      "ingredients": [
+        "Bottle gourd – 500 g",
+        "Besan – ½ cup",
+        "Green chilli – 1",
+        "Ginger – 1 tsp",
+        "Red chilli powder – ½ tsp",
+        "Garam masala – ½ tsp",
+        "Salt",
+        "Oil",
+        "Onion – 2",
+        "Tomatoes – 2",
+        "Ginger-garlic paste – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Coriander powder – 1 tsp",
+        "Chilli powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 2 tbsp"
+      ],
+      "steps": [
+        "Grate bottle gourd and squeeze out excess water.",
+        "Mix with besan, chilli, ginger and spices.",
+        "Form small balls.",
+        "Deep-fry until golden.",
+        "Prepare onion-tomato gravy.",
+        "Add powdered spices.",
+        "Add water and simmer.",
+        "Add koftas shortly before serving.",
+        "Simmer for 3–4 minutes.",
+        "Garnish with coriander."
+      ]
+    },
+    "Karela Masala": {
+      "ingredients": [
+        "Bitter gourd – 500 g",
+        "Onion – 2",
+        "Tomato – 2",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Amchur – 1 tsp",
+        "Fennel powder – ½ tsp",
+        "Jaggery – 1 tsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Slice karela and remove seeds if desired.",
+        "Mix with salt and rest for 20–30 minutes.",
+        "Rinse and squeeze out excess moisture.",
+        "Heat oil and fry karela until lightly browned.",
+        "Remove and reserve.",
+        "Add cumin and onion.",
+        "Add ginger and green chilli.",
+        "Add tomatoes and spices.",
+        "Add fried karela.",
+        "Add amchur and jaggery.",
+        "Cook uncovered until well coated."
+      ]
+    },
+    "Tinda Masala": {
+      "ingredients": [
+        "Tinda – 500 g",
+        "Onion – 2",
+        "Tomatoes – 2",
+        "Ginger-garlic paste – 1 tsp",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1½ tsp",
+        "Garam masala – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Peel and cut tinda into halves or quarters.",
+        "Heat oil and lightly fry tinda.",
+        "Remove and reserve.",
+        "Add cumin and onion.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and spices.",
+        "Cook until oil separates.",
+        "Add tinda.",
+        "Add water and cover.",
+        "Cook until tender.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Stuffed Capsicum": {
+      "ingredients": [
+        "Large capsicums – 4",
+        "Potatoes – 3",
+        "Paneer – 100 g",
+        "Onion – 1",
+        "Green peas – ½ cup",
+        "Green chilli – 1",
+        "Cumin – 1 tsp",
+        "Turmeric – ½ tsp",
+        "Chilli powder – ½ tsp",
+        "Garam masala – ½ tsp",
+        "Amchur – ½ tsp",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Cut the tops off capsicums and remove seeds.",
+        "Boil and mash potatoes.",
+        "Crumble paneer.",
+        "Heat oil and cumin.",
+        "Add onion and chilli.",
+        "Add peas.",
+        "Add potato, paneer and spices.",
+        "Cook the filling for 3–4 minutes.",
+        "Fill the capsicums.",
+        "Place in a covered pan with a little oil.",
+        "Cook on low heat until capsicums become tender.",
+        "Alternatively bake until lightly browned."
+      ]
+    },
+    "Vegetable Handi": {
+      "ingredients": [
+        "Mixed vegetables – 3 cups",
+        "Paneer – 150 g",
+        "Onion – 2",
+        "Tomato – 3",
+        "Cashews – 10",
+        "Yogurt – ½ cup",
+        "Ginger-garlic paste – 1 tbsp",
+        "Green chilli – 1",
+        "Turmeric – ½ tsp",
+        "Chilli powder – 1 tsp",
+        "Coriander powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Cream – ¼ cup",
+        "Oil – 3 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Partly cook the vegetables.",
+        "Lightly fry paneer.",
+        "Cook onion, tomatoes and cashews.",
+        "Blend into a smooth paste.",
+        "Heat oil and add ginger-garlic paste.",
+        "Add the blended gravy.",
+        "Add powdered spices.",
+        "Cook until oil separates.",
+        "Add vegetables and paneer.",
+        "Add yogurt and water.",
+        "Cover and simmer.",
+        "Finish with cream and garam masala."
+      ]
+    },
+    "Paneer Tikka": {
+      "ingredients": [
+        "Paneer – 300 g",
+        "Thick yogurt – ½ cup",
+        "Capsicum – 1",
+        "Onion – 1",
+        "Ginger-garlic paste – 1 tsp",
+        "Kashmiri chilli powder – 1 tsp",
+        "Turmeric – ¼ tsp",
+        "Coriander powder – 1 tsp",
+        "Cumin powder – ½ tsp",
+        "Garam masala – ½ tsp",
+        "Lemon juice – 1 tbsp",
+        "Kasuri methi – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Cut paneer, onion and capsicum into large pieces.",
+        "Whisk yogurt until smooth.",
+        "Add all spices, lemon juice and oil.",
+        "Add paneer and vegetables.",
+        "Mix gently.",
+        "Marinate for at least 30 minutes.",
+        "Thread paneer and vegetables onto skewers.",
+        "Grill, bake or pan-cook until lightly charred.",
+        "Turn regularly.",
+        "Brush with oil while cooking.",
+        "Serve hot."
+      ]
+    },
+    "Hara Bhara Kebab": {
+      "ingredients": [
+        "Spinach – 2 cups",
+        "Green peas – 1 cup",
+        "Potatoes – 2",
+        "Paneer – 100 g",
+        "Green chilli – 2",
+        "Ginger – 1 tsp",
+        "Coriander – ½ cup",
+        "Roasted gram flour – 3 tbsp",
+        "Garam masala – ½ tsp",
+        "Chaat masala – ½ tsp",
+        "Lemon juice – 1 tsp",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Blanch spinach and squeeze out water.",
+        "Cook peas.",
+        "Boil and mash potatoes.",
+        "Blend spinach, peas, chilli, ginger and coriander.",
+        "Mix with potato and paneer.",
+        "Add roasted gram flour and spices.",
+        "Shape into flat kebabs.",
+        "Refrigerate for 15–20 minutes.",
+        "Shallow-fry with a little oil.",
+        "Cook both sides until golden.",
+        "Serve with chutney."
+      ]
+    },
+    "Dum Aloo": {
+      "ingredients": [
+        "Baby potatoes – 500 g",
+        "Yogurt – 1 cup",
+        "Onion – 1",
+        "Tomato – 2",
+        "Ginger-garlic paste – 1 tbsp",
+        "Kashmiri chilli powder – 1½ tsp",
+        "Turmeric – ½ tsp",
+        "Coriander powder – 1 tsp",
+        "Fennel powder – 1 tsp",
+        "Garam masala – ½ tsp",
+        "Cumin – 1 tsp",
+        "Oil – 4 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Boil baby potatoes until just tender.",
+        "Peel and prick them with a fork.",
+        "Shallow-fry until golden.",
+        "Heat oil and cumin.",
+        "Add onion and cook until golden.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and spices.",
+        "Cook until oil separates.",
+        "Lower heat and add whisked yogurt gradually.",
+        "Add potatoes and water.",
+        "Cover tightly.",
+        "Cook on low heat for 15–20 minutes.",
+        "Add garam masala and coriander."
+      ]
+    },
+    "Kashmiri Pulao": {
+      "ingredients": [
+        "Basmati rice – 2 cups",
+        "Milk – ½ cup",
+        "Water – 3 cups",
+        "Saffron – pinch",
+        "Sugar – 1 tsp",
+        "Ghee – 2 tbsp",
+        "Cinnamon – 1 inch",
+        "Cardamom – 3",
+        "Cloves – 3",
+        "Bay leaf – 1",
+        "Cashews – 2 tbsp",
+        "Almonds – 2 tbsp",
+        "Raisins – 2 tbsp",
+        "Apple – ½, diced",
+        "Pomegranate seeds – ½ cup",
+        "Pineapple – ½ cup, optional",
+        "Salt"
+      ],
+      "steps": [
+        "Wash and soak basmati rice for 20–30 minutes.",
+        "Soak saffron in warm milk.",
+        "Heat ghee and fry cashews, almonds and raisins.",
+        "Remove the dry fruits.",
+        "Add whole spices to the same pan.",
+        "Add drained rice and sauté gently.",
+        "Add water, milk, saffron and salt.",
+        "Cover and cook until rice is tender.",
+        "Rest for 10 minutes.",
+        "Fluff gently with a fork.",
+        "Add fried nuts and raisins.",
+        "Garnish with apple, pomegranate and optional pineapple.",
+        "Serve warm."
+      ]
+    }
+  },
+  "indianNonVegDetails": {
+    "Chicken Biryani": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Basmati rice - 500 g",
+        "Onion - 3 large",
+        "Tomato - 2",
+        "Yogurt - 200 g",
+        "Ginger-garlic paste - 2 tbsp",
+        "Green chillies - 4",
+        "Mint leaves - 1 cup",
+        "Coriander leaves - 1 cup",
+        "Lemon juice - 2 tbsp",
+        "Biryani masala - 2 tsp",
+        "Red chilli powder - 1 tsp",
+        "Turmeric - 1/2 tsp",
+        "Whole spices (bay leaf, cinnamon, cloves, cardamom, star anise)",
+        "Oil/ghee - 5 tbsp",
+        "Saffron - 1 pinch",
+        "Milk - 2 tbsp",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Marinate the chicken with yogurt, ginger-garlic paste, chilli powder, turmeric, lemon juice and salt for 30-60 minutes.",
+        "Wash and soak the rice for 30 minutes.",
+        "Boil the rice with salt and whole spices until about 70% cooked.",
+        "Fry sliced onions until golden and reserve some for garnish.",
+        "Cook the marinated chicken with tomatoes, green chillies and spices until partly done.",
+        "Layer chicken, rice, mint, coriander and fried onion.",
+        "Sprinkle saffron soaked in warm milk and ghee.",
+        "Cover tightly and cook on low heat for 20-25 minutes using the dum method.",
+        "Rest for 10 minutes before serving."
+      ]
+    },
+    "Butter Chicken": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Yogurt - 150 g",
+        "Ginger-garlic paste - 1 1/2 tbsp",
+        "Kashmiri chilli powder - 1 1/2 tsp",
+        "Lemon juice - 1 tbsp",
+        "Tomatoes - 500 g",
+        "Butter - 60 g",
+        "Cream - 100 ml",
+        "Cashews - 15",
+        "Garam masala - 1 tsp",
+        "Kasuri methi - 1 tsp",
+        "Sugar - 1/2 tsp",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Marinate chicken with yogurt, ginger-garlic paste, chilli, lemon and salt.",
+        "Grill, roast or pan-cook the chicken until lightly charred and cooked.",
+        "Cook tomatoes and cashews until soft, then blend into a smooth puree.",
+        "Heat butter and cook the puree until the raw tomato smell disappears.",
+        "Add garam masala, kasuri methi and a little sugar.",
+        "Add grilled chicken and simmer.",
+        "Add cream at the end and cook gently for 2-3 minutes."
+      ]
+    },
+    "Chicken Tikka": {
+      "ingredients": [
+        "Boneless chicken - 750 g",
+        "Thick yogurt - 150 g",
+        "Ginger-garlic paste - 1 1/2 tbsp",
+        "Kashmiri chilli powder - 2 tsp",
+        "Garam masala - 1 tsp",
+        "Cumin powder - 1 tsp",
+        "Coriander powder - 1 tsp",
+        "Turmeric - 1/2 tsp",
+        "Lemon juice - 2 tbsp",
+        "Oil - 2 tbsp",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Cut chicken into medium cubes.",
+        "Mix all marinade ingredients.",
+        "Coat chicken thoroughly and refrigerate for at least 2 hours.",
+        "Thread chicken onto skewers.",
+        "Grill at high heat, turning occasionally, until charred and cooked through.",
+        "Brush lightly with butter or oil and serve with lemon and onion."
+      ]
+    },
+    "Mutton Curry": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Onion - 3",
+        "Tomato - 2",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste - 2 tbsp",
+        "Turmeric - 1/2 tsp",
+        "Red chilli powder - 2 tsp",
+        "Coriander powder - 2 tsp",
+        "Cumin powder - 1 tsp",
+        "Garam masala - 1 tsp",
+        "Whole spices",
+        "Oil - 4 tbsp",
+        "Coriander leaves",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Marinate mutton with yogurt, turmeric and salt.",
+        "Heat oil and fry whole spices.",
+        "Add onions and cook until golden.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and powdered spices; cook until oil separates.",
+        "Add mutton and fry thoroughly.",
+        "Add water, cover and cook until tender in a pressure cooker or on the stovetop.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Fish Curry": {
+      "ingredients": [
+        "Firm fish - 600 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Ginger-garlic paste - 1 tbsp",
+        "Turmeric - 1/2 tsp",
+        "Chilli powder - 1 1/2 tsp",
+        "Coriander powder - 2 tsp",
+        "Tamarind - 2 tbsp",
+        "Coconut milk - 200 ml",
+        "Oil - 3 tbsp",
+        "Curry leaves",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Marinate fish with turmeric and salt for 15 minutes.",
+        "Lightly fry the fish and remove.",
+        "Fry onion, ginger-garlic paste and curry leaves.",
+        "Add tomato and powdered spices.",
+        "Add tamarind and water; simmer the gravy.",
+        "Add fish carefully.",
+        "Add coconut milk and simmer gently until fish is cooked."
+      ]
+    },
+    "Egg Curry": {
+      "ingredients": [
+        "Eggs - 6",
+        "Onion - 2",
+        "Tomatoes - 3",
+        "Ginger-garlic paste - 1 tbsp",
+        "Green chilli - 2",
+        "Turmeric - 1/2 tsp",
+        "Chilli powder - 1 1/2 tsp",
+        "Coriander powder - 2 tsp",
+        "Garam masala - 1/2 tsp",
+        "Cumin - 1 tsp",
+        "Oil - 3 tbsp",
+        "Coriander",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Boil eggs, peel and make shallow cuts.",
+        "Lightly fry eggs with turmeric and salt.",
+        "Fry cumin and onions until golden.",
+        "Add ginger-garlic paste and tomatoes.",
+        "Add powdered spices and cook until oil separates.",
+        "Add water and simmer the gravy.",
+        "Add eggs and simmer for 5-8 minutes."
+      ]
+    },
+    "Chicken Curry": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Onions - 3",
+        "Tomatoes - 2",
+        "Ginger-garlic paste - 2 tbsp",
+        "Yogurt - 100 g",
+        "Turmeric - 1/2 tsp",
+        "Chilli powder - 2 tsp",
+        "Coriander powder - 2 tsp",
+        "Cumin powder - 1 tsp",
+        "Garam masala - 1 tsp",
+        "Oil - 4 tbsp",
+        "Coriander",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Heat oil and fry whole spices if desired.",
+        "Add onions and brown them.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and powdered spices.",
+        "Add chicken and fry until coated.",
+        "Add yogurt gradually while stirring.",
+        "Add water and cook covered until chicken is tender.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Chicken Korma": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Yogurt - 200 g",
+        "Onion - 3",
+        "Cashews - 20",
+        "Almonds - 10",
+        "Ginger-garlic paste - 1 tbsp",
+        "Cardamom - 4",
+        "Cinnamon - 1 inch",
+        "Cloves - 4",
+        "Cumin - 1 tsp",
+        "Coriander powder - 1 tsp",
+        "White pepper - 1/2 tsp",
+        "Cream - 50 ml",
+        "Oil/ghee - 4 tbsp",
+        "Salt - to taste"
+      ],
+      "steps": [
+        "Fry onions until golden and crisp.",
+        "Grind half the onions with cashews and almonds.",
+        "Heat ghee and fry whole spices.",
+        "Add ginger-garlic paste.",
+        "Add chicken and cook until lightly browned.",
+        "Add yogurt and powdered spices.",
+        "Add the nut-onion paste and water.",
+        "Cover and cook until chicken is tender.",
+        "Finish with cream."
+      ]
+    },
+    "Chicken Chettinad": {
+      "ingredients": [
+        "Chicken - 500 g",
+        "Onions - 250 g",
+        "Tomatoes - 100 g",
+        "Coconut - 100 g",
+        "Ginger - 50 g",
+        "Garlic - 50 g",
+        "Fennel - 50 g",
+        "Cumin - 20 g",
+        "Pepper - 25 g",
+        "Dry red chillies - 10 g",
+        "Cinnamon",
+        "Cloves",
+        "Cardamom",
+        "Curry leaves",
+        "Turmeric",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Roast and grind coconut, fennel, cumin, pepper, red chillies, ginger and garlic into a paste.",
+        "Marinate chicken with part of the paste.",
+        "Heat oil and fry cinnamon, cloves, cardamom and cumin.",
+        "Add onion and curry leaves and brown.",
+        "Add tomatoes.",
+        "Add chicken and turmeric.",
+        "Cook until chicken is tender, adding small amounts of water as necessary.",
+        "Garnish with coriander."
+      ]
+    },
+    "Chicken 65": {
+      "ingredients": [
+        "Boneless chicken - 500 g",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste - 1 tbsp",
+        "Chilli powder - 1 1/2 tsp",
+        "Turmeric - 1/2 tsp",
+        "Coriander powder - 1 tsp",
+        "Cumin powder - 1 tsp",
+        "Pepper - 1/2 tsp",
+        "Cornflour - 3 tbsp",
+        "Rice flour - 1 tbsp",
+        "Egg - 1",
+        "Curry leaves",
+        "Green chillies",
+        "Mustard seeds",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate chicken with ginger-garlic paste, chilli, turmeric, pepper and salt.",
+        "Add yogurt and rest for at least 1 hour.",
+        "Add egg, cornflour and rice flour.",
+        "Coat chicken evenly.",
+        "Deep-fry until crisp and cooked through.",
+        "Temper oil with mustard seeds, curry leaves and green chillies.",
+        "Toss fried chicken with the tempering."
+      ]
+    },
+    "Chicken Manchurian": {
+      "ingredients": [
+        "Chicken - 500 g",
+        "Cornflour - 4 tbsp",
+        "Flour - 2 tbsp",
+        "Egg - 1",
+        "Ginger - 1 tbsp",
+        "Garlic - 1 tbsp",
+        "Soy sauce - 2 tbsp",
+        "Vinegar - 1 tbsp",
+        "Chilli sauce - 1 tbsp",
+        "Tomato ketchup - 2 tbsp",
+        "Spring onion",
+        "Capsicum",
+        "Oil",
+        "Salt",
+        "Pepper"
+      ],
+      "steps": [
+        "Mix chicken with egg, flour, cornflour, pepper and salt.",
+        "Deep-fry until crisp.",
+        "Stir-fry garlic and ginger.",
+        "Add capsicum and spring onion.",
+        "Add soy sauce, chilli sauce, ketchup and vinegar.",
+        "Add a little water and simmer.",
+        "Toss fried chicken in the sauce."
+      ]
+    },
+    "Tandoori Chicken": {
+      "ingredients": [
+        "Whole chicken - 1 kg",
+        "Yogurt - 200 g",
+        "Lemon juice - 2 tbsp",
+        "Ginger-garlic paste - 2 tbsp",
+        "Kashmiri chilli - 2 tsp",
+        "Cumin - 1 tsp",
+        "Coriander - 1 tsp",
+        "Garam masala - 1 tsp",
+        "Turmeric - 1/2 tsp",
+        "Oil - 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Make deep cuts in the chicken.",
+        "Apply salt and lemon juice and rest for 20-30 minutes.",
+        "Apply yogurt and spice marinade.",
+        "Refrigerate for several hours.",
+        "Roast or grill at high heat until browned and cooked through.",
+        "Baste with oil or butter during cooking."
+      ]
+    },
+    "Chicken Tikka Masala": {
+      "ingredients": [
+        "Chicken tikka - 500 g",
+        "Onion - 2",
+        "Tomatoes - 400 g",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste - 1 tbsp",
+        "Chilli powder - 1 1/2 tsp",
+        "Coriander powder - 1 tsp",
+        "Garam masala - 1 tsp",
+        "Cream - 75 ml",
+        "Butter - 30 g",
+        "Kasuri methi",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Prepare and grill chicken tikka.",
+        "Fry onion and ginger-garlic paste.",
+        "Add tomato puree and spices.",
+        "Cook until oil separates.",
+        "Add grilled chicken.",
+        "Simmer with a little water.",
+        "Add cream, butter and kasuri methi."
+      ]
+    },
+    "Chicken Vindaloo": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Vinegar - 3 tbsp",
+        "Dried red chillies - 8-10",
+        "Garlic - 8 cloves",
+        "Ginger - 1 inch",
+        "Cumin - 1 tsp",
+        "Coriander - 1 tsp",
+        "Cinnamon",
+        "Cloves",
+        "Onion - 2",
+        "Tomato - 2",
+        "Oil - 3 tbsp",
+        "Sugar - 1/2 tsp",
+        "Salt"
+      ],
+      "steps": [
+        "Soak dried chillies and grind with vinegar, garlic, ginger, cumin, coriander and whole spices.",
+        "Marinate chicken in the paste for at least 2 hours.",
+        "Fry onions until golden.",
+        "Add marinated chicken.",
+        "Cook thoroughly.",
+        "Add tomato and water.",
+        "Simmer until chicken is tender and gravy thickens.",
+        "Balance the sour-spicy flavor with a small amount of sugar if needed."
+      ]
+    },
+    "Chicken Saag": {
+      "ingredients": [
+        "Chicken - 600 g",
+        "Spinach - 500 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Ginger-garlic paste - 1 1/2 tbsp",
+        "Green chilli - 2",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Garam masala",
+        "Oil",
+        "Cream - 50 ml",
+        "Salt"
+      ],
+      "steps": [
+        "Blanch spinach briefly and blend into a puree.",
+        "Fry onions.",
+        "Add ginger-garlic paste and tomatoes.",
+        "Add powdered spices.",
+        "Add chicken and cook until nearly tender.",
+        "Add spinach puree.",
+        "Simmer until chicken is fully cooked.",
+        "Add garam masala and optional cream."
+      ]
+    },
+    "Chicken Do Pyaza": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Onions - 4",
+        "Tomatoes - 2",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste - 1 1/2 tbsp",
+        "Cumin",
+        "Coriander powder",
+        "Turmeric",
+        "Chilli powder",
+        "Garam masala",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Brown half the onions.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and spices.",
+        "Add chicken and yogurt.",
+        "Cook until chicken is tender.",
+        "Add remaining onion pieces near the end so they retain texture.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Chicken Handi": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Onion - 2",
+        "Tomato - 3",
+        "Yogurt - 150 g",
+        "Ginger-garlic paste - 1 1/2 tbsp",
+        "Green chilli - 2",
+        "Chilli powder",
+        "Coriander powder",
+        "Garam masala",
+        "Cream - 50 ml",
+        "Oil - 4 tbsp",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Fry onions in a handi or heavy pot.",
+        "Add ginger-garlic paste.",
+        "Add tomatoes and spices.",
+        "Add chicken and fry well.",
+        "Add yogurt and cook until oil separates.",
+        "Add water and cook covered until tender.",
+        "Add cream and garam masala.",
+        "Garnish with coriander."
+      ]
+    },
+    "Chicken Kolhapuri": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Coconut - 1/2 cup",
+        "Dry red chillies - 8",
+        "Coriander seeds - 2 tbsp",
+        "Cumin - 1 tsp",
+        "Fennel - 1 tsp",
+        "Sesame - 1 tsp",
+        "Pepper - 1/2 tsp",
+        "Ginger-garlic paste",
+        "Oil",
+        "Turmeric",
+        "Salt"
+      ],
+      "steps": [
+        "Dry-roast whole spices and coconut.",
+        "Grind into Kolhapuri masala.",
+        "Fry onions and ginger-garlic paste.",
+        "Add tomatoes.",
+        "Add chicken and turmeric.",
+        "Add ground masala.",
+        "Add water and simmer until tender.",
+        "Adjust salt and chilli."
+      ]
+    },
+    "Chicken Rogan Josh": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Yogurt - 200 g",
+        "Kashmiri chilli - 2 tbsp",
+        "Fennel powder - 2 tsp",
+        "Dry ginger powder - 1 tsp",
+        "Asafoetida - a pinch",
+        "Cinnamon",
+        "Cloves",
+        "Cardamom",
+        "Mustard oil/ghee",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil or ghee and add whole spices.",
+        "Add chicken and brown lightly.",
+        "Add Kashmiri chilli and yogurt gradually while stirring.",
+        "Add fennel and dry ginger powder.",
+        "Add water.",
+        "Cook gently until chicken is tender and gravy thickens."
+      ]
+    },
+    "Mutton Biryani": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Basmati rice - 500 g",
+        "Onion - 3",
+        "Yogurt - 200 g",
+        "Ginger-garlic paste - 2 tbsp",
+        "Mint",
+        "Coriander",
+        "Green chilli",
+        "Lemon juice",
+        "Biryani spices",
+        "Whole spices",
+        "Ghee/oil",
+        "Saffron",
+        "Milk",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate mutton with yogurt, spices, ginger-garlic paste, lemon and salt.",
+        "Cook mutton until about 70-80% tender.",
+        "Parboil basmati rice.",
+        "Layer mutton and rice.",
+        "Add mint, coriander, fried onion and saffron milk.",
+        "Seal and cook on low heat until rice and mutton are completely cooked.",
+        "Rest before serving."
+      ]
+    },
+    "Mutton Korma": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Yogurt - 200 g",
+        "Onion - 3",
+        "Cashews - 20",
+        "Almonds - 10",
+        "Ginger-garlic paste",
+        "Cardamom",
+        "Cinnamon",
+        "Cloves",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Cream - 50 ml",
+        "Ghee/oil",
+        "Salt"
+      ],
+      "steps": [
+        "Brown onions and grind with nuts.",
+        "Fry whole spices and ginger-garlic paste.",
+        "Add mutton and yogurt.",
+        "Add nut paste.",
+        "Add water and slow-cook until mutton is tender.",
+        "Finish with cream and garam masala."
+      ]
+    },
+    "Mutton Rogan Josh": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Kashmiri chilli - 2 tbsp",
+        "Yogurt - 200 g",
+        "Fennel powder - 2 tsp",
+        "Dry ginger powder - 1 tsp",
+        "Asafoetida",
+        "Cinnamon",
+        "Cloves",
+        "Cardamom",
+        "Ghee/oil",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil or ghee with whole spices.",
+        "Brown mutton.",
+        "Add Kashmiri chilli.",
+        "Add yogurt gradually.",
+        "Add fennel and dry ginger powder.",
+        "Add water and slow-cook until tender.",
+        "Reduce to a moderately thick gravy."
+      ]
+    },
+    "Mutton Keema": {
+      "ingredients": [
+        "Minced mutton - 500 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Peas - 1 cup",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Fry onion until golden.",
+        "Add ginger-garlic paste.",
+        "Add minced mutton and cook until moisture evaporates.",
+        "Add tomato and spices.",
+        "Add peas and water.",
+        "Cover and cook until keema is fully cooked.",
+        "Finish with garam masala and coriander."
+      ]
+    },
+    "Mutton Vindaloo": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Vinegar - 4 tbsp",
+        "Dried red chillies - 8-10",
+        "Garlic",
+        "Ginger",
+        "Cumin",
+        "Coriander",
+        "Cinnamon",
+        "Cloves",
+        "Onion - 2",
+        "Tomato - 2",
+        "Oil",
+        "Sugar - 1/2 tsp",
+        "Salt"
+      ],
+      "steps": [
+        "Make a vinegar-based spice paste.",
+        "Marinate mutton in the paste.",
+        "Fry onion.",
+        "Add marinated meat and cook thoroughly.",
+        "Add tomato and water.",
+        "Slow-cook until tender and the gravy becomes thick and tangy."
+      ]
+    },
+    "Mutton Do Pyaza": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Onions - 4",
+        "Yogurt - 100 g",
+        "Tomato - 2",
+        "Ginger-garlic paste",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Brown half the onions.",
+        "Add aromatics and spices.",
+        "Add mutton and yogurt.",
+        "Cook until tender.",
+        "Add large pieces of remaining onions near the end.",
+        "Finish with garam masala."
+      ]
+    },
+    "Mutton Masala": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Onion - 3",
+        "Tomato - 2",
+        "Ginger-garlic paste",
+        "Yogurt - 100 g",
+        "Coriander powder",
+        "Cumin powder",
+        "Chilli powder",
+        "Turmeric",
+        "Garam masala",
+        "Whole spices",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Brown onions.",
+        "Add whole spices and ginger-garlic paste.",
+        "Add tomatoes and powdered spices.",
+        "Add mutton and yogurt.",
+        "Pressure-cook or slow-cook until tender.",
+        "Reduce gravy and garnish."
+      ]
+    },
+    "Mutton Handi": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Onion - 2",
+        "Tomato - 3",
+        "Yogurt - 150 g",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Coriander powder",
+        "Chilli powder",
+        "Garam masala",
+        "Cream - 50 ml",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Cook onion and aromatics.",
+        "Add mutton and spices.",
+        "Add yogurt and tomatoes.",
+        "Cook covered with water until tender.",
+        "Reduce gravy.",
+        "Finish with cream and garam masala."
+      ]
+    },
+    "Lamb Curry": {
+      "ingredients": [
+        "Lamb - 750 g",
+        "Onion - 3",
+        "Tomato - 3",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste",
+        "Cumin",
+        "Coriander",
+        "Turmeric",
+        "Chilli powder",
+        "Garam masala",
+        "Cinnamon",
+        "Cardamom",
+        "Cloves",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Fry whole spices and onions.",
+        "Add ginger-garlic paste, tomatoes and powdered spices.",
+        "Add lamb and yogurt.",
+        "Add water and simmer slowly until tender.",
+        "Finish with garam masala."
+      ]
+    },
+    "Fish Fry": {
+      "ingredients": [
+        "Fish fillets/steaks - 600 g",
+        "Turmeric - 1/2 tsp",
+        "Chilli powder - 2 tsp",
+        "Ginger-garlic paste - 1 tbsp",
+        "Lemon juice - 1 tbsp",
+        "Rice flour - 2 tbsp",
+        "Cornflour - 1 tbsp",
+        "Salt",
+        "Oil"
+      ],
+      "steps": [
+        "Marinate fish with spices, ginger-garlic paste, lemon and salt for 30 minutes.",
+        "Coat lightly with rice flour and cornflour.",
+        "Shallow-fry until golden and cooked through.",
+        "Drain and serve with lemon."
+      ]
+    },
+    "Fish Tikka": {
+      "ingredients": [
+        "Firm fish - 600 g",
+        "Yogurt - 150 g",
+        "Ginger-garlic paste",
+        "Lemon juice",
+        "Kashmiri chilli",
+        "Turmeric",
+        "Cumin",
+        "Coriander powder",
+        "Garam masala",
+        "Kasuri methi",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate fish with all ingredients.",
+        "Refrigerate for 1-2 hours.",
+        "Thread onto skewers.",
+        "Grill at high heat until lightly charred and cooked.",
+        "Brush with oil or butter during grilling."
+      ]
+    },
+    "Fish Masala": {
+      "ingredients": [
+        "Fish - 600 g",
+        "Onion - 2",
+        "Tomato - 3",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Curry leaves",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Lightly fry fish and reserve.",
+        "Prepare onion-tomato masala with spices.",
+        "Add water and simmer.",
+        "Return fish to the gravy.",
+        "Cook gently until done."
+      ]
+    },
+    "Goan Fish Curry": {
+      "ingredients": [
+        "Fish - 600 g",
+        "Coconut - 1 cup",
+        "Dried red chillies - 6-8",
+        "Coriander seeds - 1 tbsp",
+        "Cumin - 1 tsp",
+        "Turmeric",
+        "Tamarind - 1-2 tbsp",
+        "Garlic",
+        "Green chilli",
+        "Coconut milk - 100-200 ml",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Grind coconut, chillies, coriander, cumin, garlic and turmeric.",
+        "Cook the paste with water.",
+        "Add tamarind.",
+        "Add fish and simmer gently.",
+        "Add coconut milk near the end.",
+        "Do not vigorously stir after adding fish."
+      ]
+    },
+    "Kerala Fish Curry": {
+      "ingredients": [
+        "Fish - 600 g",
+        "Coconut milk - 200 ml",
+        "Shallots - 10",
+        "Ginger",
+        "Garlic",
+        "Green chilli",
+        "Curry leaves",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Fenugreek seeds",
+        "Tamarind/kudampuli",
+        "Coconut oil",
+        "Salt"
+      ],
+      "steps": [
+        "Heat coconut oil.",
+        "Temper fenugreek seeds and curry leaves.",
+        "Add shallots, ginger, garlic and green chilli.",
+        "Add chilli and turmeric.",
+        "Add water and kudampuli/tamarind.",
+        "Add fish and cook gently.",
+        "Add coconut milk and simmer briefly."
+      ]
+    },
+    "Andhra Fish Curry": {
+      "ingredients": [
+        "Fish - 600 g",
+        "Onion - 2",
+        "Tomato - 3",
+        "Tamarind - 2-3 tbsp",
+        "Ginger-garlic paste",
+        "Green chillies",
+        "Turmeric",
+        "Red chilli powder",
+        "Coriander powder",
+        "Mustard seeds",
+        "Fenugreek seeds",
+        "Curry leaves",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate fish with turmeric and salt.",
+        "Heat oil and temper mustard, fenugreek and curry leaves.",
+        "Fry onion, green chilli and ginger-garlic paste.",
+        "Add tomato and chilli powder.",
+        "Add tamarind water and simmer the gravy.",
+        "Add fish carefully.",
+        "Cook until fish is done and gravy thickens.",
+        "Rest before serving."
+      ]
+    },
+    "Prawn Curry": {
+      "ingredients": [
+        "Prawns - 500 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Coconut milk - 200 ml",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Curry leaves",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Clean and briefly marinate prawns with turmeric and salt.",
+        "Prepare onion-tomato masala.",
+        "Add spices and coconut milk.",
+        "Add prawns and cook only until opaque and curled.",
+        "Avoid overcooking."
+      ]
+    },
+    "Prawn Masala": {
+      "ingredients": [
+        "Prawns - 500 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Ginger-garlic paste",
+        "Chilli powder",
+        "Turmeric",
+        "Coriander powder",
+        "Cumin powder",
+        "Garam masala",
+        "Green chilli",
+        "Curry leaves",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate prawns with turmeric and salt.",
+        "Fry onion, curry leaves and green chilli.",
+        "Add ginger-garlic paste.",
+        "Add tomato and spices.",
+        "Add prawns.",
+        "Cook for 5-7 minutes until just done.",
+        "Finish with garam masala."
+      ]
+    },
+    "Prawn Fry": {
+      "ingredients": [
+        "Prawns - 500 g",
+        "Ginger-garlic paste",
+        "Turmeric",
+        "Chilli powder",
+        "Pepper",
+        "Lemon juice",
+        "Rice flour/cornflour",
+        "Curry leaves",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate prawns with spices and lemon.",
+        "Coat lightly with flour.",
+        "Shallow- or deep-fry until golden.",
+        "Temper curry leaves separately and toss with the prawns."
+      ]
+    },
+    "Garlic Prawns": {
+      "ingredients": [
+        "Prawns - 500 g",
+        "Garlic - 10-12 cloves",
+        "Butter - 50 g",
+        "Olive oil - 1 tbsp",
+        "Chilli flakes",
+        "Black pepper",
+        "Lemon juice",
+        "Parsley/coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Melt butter with oil.",
+        "Add finely chopped garlic and cook gently without burning.",
+        "Add prawns.",
+        "Cook until opaque.",
+        "Add chilli flakes, pepper and lemon juice.",
+        "Garnish with herbs."
+      ]
+    },
+    "Crab Curry": {
+      "ingredients": [
+        "Crab - 750 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Coconut - 1 cup",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Fennel",
+        "Curry leaves",
+        "Tamarind",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Clean crabs thoroughly.",
+        "Roast coconut and spices and grind into a paste.",
+        "Fry onion, ginger-garlic paste and curry leaves.",
+        "Add tomato and powdered spices.",
+        "Add ground coconut masala and water.",
+        "Add crab and tamarind.",
+        "Cover and cook until crab is fully cooked."
+      ]
+    },
+    "Egg Biryani": {
+      "ingredients": [
+        "Eggs - 6",
+        "Basmati rice - 400 g",
+        "Onion - 3",
+        "Tomato - 2",
+        "Yogurt - 100 g",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Mint",
+        "Coriander",
+        "Biryani masala",
+        "Whole spices",
+        "Turmeric",
+        "Chilli powder",
+        "Ghee/oil",
+        "Saffron",
+        "Salt"
+      ],
+      "steps": [
+        "Boil and lightly fry eggs.",
+        "Prepare onion-tomato masala.",
+        "Parboil rice.",
+        "Layer masala, eggs and rice with mint and coriander.",
+        "Add saffron milk.",
+        "Dum-cook until rice is completely done."
+      ]
+    },
+    "Egg Masala": {
+      "ingredients": [
+        "Eggs - 6",
+        "Onion - 2",
+        "Tomato - 3",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Boil and lightly fry eggs.",
+        "Prepare onion-tomato masala with spices.",
+        "Add water to make gravy.",
+        "Add eggs and simmer for 5-8 minutes."
+      ]
+    },
+    "Egg Bhurji": {
+      "ingredients": [
+        "Eggs - 6",
+        "Onion - 2",
+        "Tomato - 1",
+        "Green chilli - 2",
+        "Ginger - 1 tsp",
+        "Turmeric - 1/4 tsp",
+        "Chilli powder - 1/2 tsp",
+        "Coriander leaves",
+        "Oil/butter",
+        "Salt"
+      ],
+      "steps": [
+        "Heat oil.",
+        "Sauté onion and green chilli.",
+        "Add ginger and tomato.",
+        "Add turmeric and chilli powder.",
+        "Beat eggs and pour into the pan.",
+        "Stir continuously until softly scrambled.",
+        "Finish with coriander."
+      ]
+    },
+    "Keema Curry": {
+      "ingredients": [
+        "Minced mutton - 500 g",
+        "Onion - 2",
+        "Tomato - 2",
+        "Ginger-garlic paste",
+        "Peas - 1 cup",
+        "Green chilli",
+        "Turmeric",
+        "Chilli powder",
+        "Coriander powder",
+        "Cumin",
+        "Garam masala",
+        "Oil",
+        "Coriander",
+        "Salt"
+      ],
+      "steps": [
+        "Brown onion.",
+        "Add ginger-garlic paste.",
+        "Add minced meat and fry until moisture evaporates.",
+        "Add tomato and spices.",
+        "Add peas and water.",
+        "Cook covered until keema is completely cooked.",
+        "Finish with garam masala."
+      ]
+    },
+    "Chicken Seekh Kebab": {
+      "ingredients": [
+        "Chicken mince - 500 g",
+        "Onion - 1 small",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Coriander",
+        "Mint",
+        "Garam masala",
+        "Cumin powder",
+        "Chilli powder",
+        "Coriander powder",
+        "Egg - 1",
+        "Roasted gram flour - 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Mix all ingredients thoroughly.",
+        "Refrigerate for 30-60 minutes.",
+        "Shape mixture around skewers.",
+        "Grill or roast while turning regularly.",
+        "Brush with oil or butter.",
+        "Cook until the centre is fully done."
+      ]
+    },
+    "Mutton Seekh Kebab": {
+      "ingredients": [
+        "Mutton mince - 500 g",
+        "Onion - 1",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Coriander",
+        "Mint",
+        "Cumin",
+        "Coriander powder",
+        "Garam masala",
+        "Chilli powder",
+        "Egg - 1",
+        "Roasted gram flour - 2 tbsp",
+        "Salt"
+      ],
+      "steps": [
+        "Mix and knead the mince thoroughly.",
+        "Chill the mixture.",
+        "Shape around skewers.",
+        "Grill over medium-high heat while turning frequently.",
+        "Cook until completely done and lightly charred."
+      ]
+    },
+    "Chicken Malai Tikka": {
+      "ingredients": [
+        "Chicken - 600 g",
+        "Hung curd - 150 g",
+        "Cream - 100 ml",
+        "Cheese - 50 g",
+        "Ginger-garlic paste",
+        "Green chilli paste",
+        "White pepper",
+        "Cardamom powder",
+        "Lemon juice",
+        "Cornflour - 1 tbsp",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate chicken with lemon and salt.",
+        "Mix hung curd, cream, cheese, ginger-garlic, chilli, white pepper and cardamom.",
+        "Coat chicken and refrigerate for 3-4 hours.",
+        "Thread onto skewers.",
+        "Grill until lightly browned and cooked through.",
+        "Brush with butter or cream while grilling."
+      ]
+    },
+    "Chicken Reshmi Kebab": {
+      "ingredients": [
+        "Chicken mince - 500 g",
+        "Cream - 100 ml",
+        "Cashew paste - 3 tbsp",
+        "Hung curd - 100 g",
+        "Ginger-garlic paste",
+        "Green chilli",
+        "Cardamom",
+        "Garam masala",
+        "Lemon juice",
+        "Roasted gram flour - 2 tbsp",
+        "Egg - 1",
+        "Salt"
+      ],
+      "steps": [
+        "Combine minced chicken with all ingredients.",
+        "Chill the mixture.",
+        "Shape around skewers.",
+        "Grill over medium-high heat.",
+        "Turn and baste with butter or oil.",
+        "Cook until completely done while keeping the kebab moist."
+      ]
+    },
+    "Tandoori Fish": {
+      "ingredients": [
+        "Fish - 600 g",
+        "Yogurt - 150 g",
+        "Ginger-garlic paste",
+        "Lemon juice",
+        "Kashmiri chilli",
+        "Turmeric",
+        "Cumin",
+        "Coriander powder",
+        "Garam masala",
+        "Ajwain - 1/2 tsp",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Make cuts in the fish.",
+        "Marinate with lemon, salt and turmeric.",
+        "Apply yogurt-spice marinade.",
+        "Refrigerate for 1-2 hours.",
+        "Grill at high heat.",
+        "Turn and baste with oil.",
+        "Cook until fish is opaque and flakes easily."
+      ]
+    },
+    "Hyderabadi Chicken": {
+      "ingredients": [
+        "Chicken - 750 g",
+        "Yogurt - 200 g",
+        "Fried onion - 1 cup",
+        "Ginger-garlic paste - 2 tbsp",
+        "Green chilli - 4",
+        "Mint - 1/2 cup",
+        "Coriander - 1/2 cup",
+        "Lemon juice - 1 tbsp",
+        "Cashew/almond paste - 2 tbsp",
+        "Chilli powder",
+        "Turmeric",
+        "Garam masala",
+        "Whole spices",
+        "Oil",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate chicken with yogurt, ginger-garlic paste, chilli, turmeric and lemon.",
+        "Heat oil and fry whole spices.",
+        "Add marinated chicken.",
+        "Add fried onion, green chilli, mint and coriander.",
+        "Add nut paste and a little water.",
+        "Cover and cook until chicken is tender.",
+        "Finish with garam masala and fresh coriander."
+      ]
+    },
+    "Hyderabadi Mutton": {
+      "ingredients": [
+        "Mutton - 750 g",
+        "Yogurt - 200 g",
+        "Fried onion - 1 cup",
+        "Ginger-garlic paste - 2 tbsp",
+        "Green chilli - 4",
+        "Mint - 1/2 cup",
+        "Coriander - 1/2 cup",
+        "Raw papaya paste - 1 tbsp (optional tenderizer)",
+        "Red chilli powder",
+        "Turmeric",
+        "Garam masala",
+        "Whole spices",
+        "Oil",
+        "Lemon juice",
+        "Salt"
+      ],
+      "steps": [
+        "Marinate mutton with yogurt, ginger-garlic paste, chilli, turmeric, lemon and optional raw papaya paste.",
+        "Rest for 1-2 hours.",
+        "Fry whole spices in oil.",
+        "Add marinated mutton and brown well.",
+        "Add fried onions, green chillies, mint and coriander.",
+        "Add water and cook slowly or pressure-cook until tender.",
+        "Reduce the gravy.",
+        "Finish with garam masala and coriander."
+      ]
+    }
+  },
+  "westernRecipeDetails": {
+    "Margherita Pizza": {
+      "ingredients": [
+        "Pizza dough – 1 ball",
+        "Tomato passata – 1/2 cup",
+        "Fresh mozzarella – 150 g",
+        "Fresh basil leaves – 8–10",
+        "Olive oil – 1 tbsp",
+        "Salt – to taste"
+      ],
+      "steps": [
+        "Preheat the oven to 240°C and place a pizza stone or tray inside to heat.",
+        "Stretch the dough into a thin round and place it on a lightly floured surface or pizza peel.",
+        "Spread passata over the dough, leaving a small border, then add mozzarella and a little salt.",
+        "Bake for 8–12 minutes until the crust is browned and the cheese is bubbling.",
+        "Top with fresh basil and olive oil, then serve hot."
+      ]
+    },
+    "Pepperoni Pizza": {
+      "ingredients": [
+        "Pizza dough – 1 ball",
+        "Pizza sauce – 1/2 cup",
+        "Mozzarella cheese – 150 g, grated",
+        "Pepperoni slices – 75–100 g",
+        "Olive oil – 1 tsp",
+        "Dried oregano – 1/2 tsp"
+      ],
+      "steps": [
+        "Preheat the oven to 240°C with a pizza tray or stone inside.",
+        "Stretch the dough into a round and spread the pizza sauce evenly.",
+        "Add mozzarella, then arrange pepperoni slices over the cheese.",
+        "Sprinkle with oregano and bake for 8–12 minutes until the crust is golden and cheese is melted.",
+        "Drizzle lightly with olive oil and serve hot."
+      ]
+    },
+    "Four Cheese Pizza": {
+      "ingredients": [
+        "Pizza dough – 1 ball",
+        "Mozzarella – 100 g",
+        "Parmesan – 30 g",
+        "Gorgonzola or blue cheese – 40 g",
+        "Provolone or fontina – 50 g",
+        "Olive oil – 1 tbsp"
+      ],
+      "steps": [
+        "Preheat the oven to 240°C.",
+        "Stretch the pizza dough into a round and brush lightly with olive oil.",
+        "Distribute mozzarella, parmesan, blue cheese and provolone evenly over the dough.",
+        "Bake for 8–12 minutes until the crust is crisp and the cheeses are melted and lightly browned.",
+        "Rest for 2 minutes, slice and serve."
+      ]
+    },
+    "Pasta Alfredo": {
+      "ingredients": [
+        "Fettuccine – 250 g",
+        "Butter – 3 tbsp",
+        "Heavy cream – 1 cup",
+        "Parmesan cheese – 1 cup, finely grated",
+        "Garlic – 2 cloves, minced",
+        "Salt and black pepper – to taste"
+      ],
+      "steps": [
+        "Cook fettuccine in salted boiling water until al dente; reserve about 1/2 cup pasta water.",
+        "Melt butter in a pan and gently sauté garlic.",
+        "Add cream and simmer for 2–3 minutes.",
+        "Add Parmesan and stir until smooth; loosen with reserved pasta water if needed.",
+        "Toss in the pasta, season with salt and pepper, and serve immediately."
+      ]
+    },
+    "Spaghetti Carbonara": {
+      "ingredients": [
+        "Spaghetti – 250 g",
+        "Pancetta or guanciale – 100 g",
+        "Egg yolks – 3",
+        "Whole egg – 1",
+        "Pecorino Romano or Parmesan – 75 g, grated",
+        "Black pepper – 1 tsp"
+      ],
+      "steps": [
+        "Cook spaghetti in salted water until al dente and reserve some pasta water.",
+        "Cook pancetta or guanciale in a dry pan until crisp.",
+        "Whisk egg, yolks, cheese and black pepper in a bowl.",
+        "Remove the pasta from heat and toss with the meat; add the egg mixture while tossing quickly, using pasta water to make a creamy sauce.",
+        "Serve immediately with extra cheese and black pepper."
+      ]
+    },
+    "Spaghetti Bolognese": {
+      "ingredients": [
+        "Spaghetti – 250 g",
+        "Ground beef – 300 g",
+        "Onion – 1, chopped",
+        "Carrot – 1, finely chopped",
+        "Celery – 1 stalk, chopped",
+        "Garlic – 2 cloves",
+        "Crushed tomatoes – 400 g",
+        "Tomato paste – 1 tbsp",
+        "Olive oil – 2 tbsp",
+        "Italian herbs – 1 tsp"
+      ],
+      "steps": [
+        "Heat olive oil and sauté onion, carrot, celery and garlic until softened.",
+        "Add ground beef and cook until browned.",
+        "Stir in tomato paste and crushed tomatoes with the herbs.",
+        "Simmer gently for 20–30 minutes, stirring occasionally.",
+        "Cook spaghetti until al dente, drain and serve with the Bolognese sauce."
+      ]
+    },
+    "Lasagna": {
+      "ingredients": [
+        "Lasagna sheets – 9–12",
+        "Ground beef – 400 g",
+        "Onion – 1",
+        "Garlic – 2 cloves",
+        "Crushed tomatoes – 400 g",
+        "Ricotta – 250 g",
+        "Mozzarella – 200 g",
+        "Parmesan – 50 g",
+        "Olive oil – 1 tbsp"
+      ],
+      "steps": [
+        "Prepare a meat sauce by sautéing onion and garlic, browning beef and simmering it with tomatoes.",
+        "Mix ricotta with a little salt and pepper.",
+        "Layer meat sauce, lasagna sheets, ricotta and mozzarella in a baking dish, repeating the layers.",
+        "Finish with meat sauce, mozzarella and Parmesan.",
+        "Bake at 190°C for about 35–45 minutes, rest for 10–15 minutes and serve."
+      ]
+    },
+    "Mushroom Risotto": {
+      "ingredients": [
+        "Arborio rice – 1 cup",
+        "Mushrooms – 250 g, sliced",
+        "Vegetable or chicken stock – 4 cups, warm",
+        "Onion – 1, finely chopped",
+        "Garlic – 2 cloves",
+        "Butter – 2 tbsp",
+        "Parmesan – 1/2 cup",
+        "Olive oil – 1 tbsp",
+        "White wine – 1/2 cup (optional)"
+      ],
+      "steps": [
+        "Sauté mushrooms in olive oil until browned; set aside.",
+        "Cook onion and garlic in the pan, then add Arborio rice and toast for 1–2 minutes.",
+        "Add wine if using and let it absorb.",
+        "Add warm stock one ladle at a time, stirring and allowing each addition to absorb before adding more.",
+        "Stir in mushrooms, butter and Parmesan; season and serve creamy."
+      ]
+    },
+    "Bruschetta": {
+      "ingredients": [
+        "Baguette or ciabatta – 1 loaf",
+        "Tomatoes – 4, diced",
+        "Fresh basil – 10 leaves",
+        "Garlic – 2 cloves",
+        "Extra-virgin olive oil – 3 tbsp",
+        "Balsamic vinegar – 1 tbsp (optional)",
+        "Salt and black pepper – to taste"
+      ],
+      "steps": [
+        "Mix diced tomatoes with basil, olive oil, salt, pepper and balsamic vinegar if using.",
+        "Slice the bread and toast or grill until crisp.",
+        "Rub the warm bread lightly with a cut garlic clove.",
+        "Spoon the tomato mixture over the toasted bread.",
+        "Serve immediately."
+      ]
+    },
+    "Gnocchi": {
+      "ingredients": [
+        "Potatoes – 500 g",
+        "All-purpose flour – 1–1 1/2 cups",
+        "Egg – 1",
+        "Salt – 1 tsp",
+        "Parmesan – optional",
+        "Butter or olive oil – for serving"
+      ],
+      "steps": [
+        "Boil or bake potatoes until tender, then peel and mash while warm.",
+        "Mix with egg, salt and enough flour to form a soft dough; avoid overworking.",
+        "Roll into ropes and cut into small pieces, shaping with a fork if desired.",
+        "Boil gnocchi in salted water until they float, then cook for another 1–2 minutes.",
+        "Drain and toss with butter, olive oil or your preferred sauce."
+      ]
+    },
+    "Mac and Cheese": {
+      "ingredients": [
+        "Macaroni – 250 g",
+        "Butter – 3 tbsp",
+        "All-purpose flour – 3 tbsp",
+        "Milk – 2 1/2 cups",
+        "Cheddar – 2 cups, grated",
+        "Mozzarella – 1/2 cup",
+        "Mustard – 1 tsp (optional)",
+        "Salt and pepper – to taste"
+      ],
+      "steps": [
+        "Cook macaroni until just al dente and drain.",
+        "Melt butter, whisk in flour and cook for 1 minute.",
+        "Gradually whisk in milk and cook until the sauce thickens.",
+        "Remove from heat and stir in cheeses, mustard, salt and pepper.",
+        "Mix with macaroni and serve, or bake at 190°C for 15–20 minutes for a browned top."
+      ]
+    },
+    "Chicken Parmesan": {
+      "ingredients": [
+        "Chicken breasts – 2, halved",
+        "All-purpose flour – 1/2 cup",
+        "Eggs – 2",
+        "Breadcrumbs – 1 cup",
+        "Parmesan – 1/2 cup",
+        "Tomato sauce – 1 1/2 cups",
+        "Mozzarella – 150 g",
+        "Olive oil – for cooking"
+      ],
+      "steps": [
+        "Pound chicken to even thickness and season with salt and pepper.",
+        "Coat each piece in flour, beaten egg, then breadcrumbs mixed with Parmesan.",
+        "Pan-fry until golden and nearly cooked through.",
+        "Place chicken in a baking dish, top with tomato sauce and mozzarella.",
+        "Bake at 200°C for about 15–20 minutes until cooked through and cheese is melted."
+      ]
+    },
+    "Chicken Fettuccine": {
+      "ingredients": [
+        "Fettuccine – 250 g",
+        "Chicken breast – 300 g, sliced",
+        "Butter – 2 tbsp",
+        "Garlic – 2 cloves",
+        "Heavy cream – 1 cup",
+        "Parmesan – 3/4 cup",
+        "Salt and black pepper – to taste",
+        "Parsley – optional"
+      ],
+      "steps": [
+        "Cook fettuccine until al dente and reserve some pasta water.",
+        "Season and cook chicken in butter until golden and fully cooked; remove from the pan.",
+        "Sauté garlic, add cream and simmer briefly.",
+        "Stir in Parmesan and enough pasta water to make a smooth sauce.",
+        "Return chicken and pasta to the pan, toss well and garnish with parsley."
+      ]
+    },
+    "Beef Steak": {
+      "ingredients": [
+        "Beef steak – 2 steaks, about 200–250 g each",
+        "Olive oil – 1 tbsp",
+        "Butter – 1 tbsp",
+        "Garlic – 2 cloves",
+        "Fresh rosemary or thyme – 1 sprig",
+        "Salt and black pepper – to taste"
+      ],
+      "steps": [
+        "Bring steaks close to room temperature and pat them dry; season generously.",
+        "Heat a heavy skillet until very hot and add oil.",
+        "Sear steaks for about 2–4 minutes per side depending on thickness and desired doneness.",
+        "Add butter, garlic and herbs and baste the steaks for about 1 minute.",
+        "Rest for 5–10 minutes before slicing and serving."
+      ]
+    },
+    "Beef Burger": {
+      "ingredients": [
+        "Ground beef – 400 g",
+        "Burger buns – 4",
+        "Salt and black pepper – to taste",
+        "Cheddar cheese – 4 slices",
+        "Lettuce – 4 leaves",
+        "Tomato – 1, sliced",
+        "Onion – 1, sliced",
+        "Burger sauce or mayonnaise – as needed"
+      ],
+      "steps": [
+        "Divide beef into four portions and shape gently into patties.",
+        "Season both sides with salt and pepper.",
+        "Cook patties on a hot grill or skillet until browned and cooked to the desired doneness; add cheese near the end.",
+        "Toast the buns lightly and spread with sauce.",
+        "Assemble with lettuce, tomato, onion and the beef patty, then serve."
+      ]
+    },
+    "Chicken Burger": {
+      "ingredients": [
+        "Chicken breast fillets – 4",
+        "Burger buns – 4",
+        "Breadcrumbs – 1 cup",
+        "Egg – 1",
+        "Paprika – 1 tsp",
+        "Garlic powder – 1/2 tsp",
+        "Lettuce – 4 leaves",
+        "Tomato – 1, sliced",
+        "Mayonnaise – 4 tbsp"
+      ],
+      "steps": [
+        "Flatten chicken fillets evenly and season with paprika, garlic powder, salt and pepper.",
+        "Dip chicken in beaten egg and coat with breadcrumbs.",
+        "Pan-fry or bake until golden and the chicken reaches 74°C internally.",
+        "Toast buns and spread with mayonnaise.",
+        "Assemble with lettuce, tomato and cooked chicken, then serve."
+      ]
+    },
+    "Fish and Chips": {
+      "ingredients": [
+        "White fish fillets – 4",
+        "All-purpose flour – 1 cup",
+        "Cornstarch – 1/4 cup",
+        "Cold sparkling water or beer – 1 1/4 cups",
+        "Potatoes – 4 large",
+        "Oil – for frying",
+        "Salt – to taste",
+        "Malt vinegar – optional"
+      ],
+      "steps": [
+        "Cut potatoes into chips, rinse and dry thoroughly.",
+        "Mix flour and cornstarch with cold sparkling water to make a smooth batter.",
+        "Heat oil to about 175°C and fry the chips until pale and partly cooked; drain.",
+        "Dip fish in batter and fry until crisp and cooked through.",
+        "Finish frying the chips until golden, season with salt and serve with the fish."
+      ]
+    },
+    "Chicken Nuggets": {
+      "ingredients": [
+        "Chicken breast – 500 g",
+        "All-purpose flour – 1/2 cup",
+        "Eggs – 2",
+        "Breadcrumbs – 1 cup",
+        "Paprika – 1 tsp",
+        "Garlic powder – 1/2 tsp",
+        "Salt and pepper – to taste",
+        "Oil – for frying or brushing"
+      ],
+      "steps": [
+        "Cut chicken into bite-sized pieces and season.",
+        "Coat each piece in flour, beaten egg and seasoned breadcrumbs.",
+        "For frying, heat oil to about 175°C; for baking, place on a lined tray and brush lightly with oil.",
+        "Fry until golden and cooked through, or bake at 200°C for about 15–20 minutes, turning once.",
+        "Serve hot with a dipping sauce."
+      ]
+    },
+    "Chicken Wings": {
+      "ingredients": [
+        "Chicken wings – 1 kg",
+        "Olive oil – 1 tbsp",
+        "Paprika – 1 tsp",
+        "Garlic powder – 1 tsp",
+        "Salt – 1 tsp",
+        "Black pepper – 1/2 tsp",
+        "Hot sauce or barbecue sauce – 1/2 cup"
+      ],
+      "steps": [
+        "Pat the wings dry and toss with oil, paprika, garlic powder, salt and pepper.",
+        "Arrange in a single layer on a lined baking tray.",
+        "Bake at 220°C for about 35–45 minutes, turning once, until crisp and cooked through.",
+        "Toss the hot wings with hot sauce or barbecue sauce.",
+        "Serve immediately."
+      ]
+    },
+    "Grilled Chicken": {
+      "ingredients": [
+        "Chicken breasts – 4",
+        "Olive oil – 2 tbsp",
+        "Lemon juice – 2 tbsp",
+        "Garlic – 2 cloves, minced",
+        "Paprika – 1 tsp",
+        "Salt and black pepper – to taste"
+      ],
+      "steps": [
+        "Mix oil, lemon juice, garlic, paprika, salt and pepper and coat the chicken.",
+        "Marinate for at least 30 minutes, or refrigerate for several hours.",
+        "Preheat a grill or grill pan to medium-high heat.",
+        "Grill chicken until browned and the center reaches 74°C, turning as needed.",
+        "Rest for 5 minutes before slicing and serving."
+      ]
+    },
+    "Caesar Salad": {
+      "ingredients": [
+        "Romaine lettuce – 1 large head",
+        "Parmesan – 1/2 cup, shaved or grated",
+        "Croutons – 1 cup",
+        "Mayonnaise – 1/2 cup",
+        "Lemon juice – 2 tbsp",
+        "Garlic – 1 clove",
+        "Dijon mustard – 1 tsp",
+        "Olive oil – 2 tbsp",
+        "Black pepper – to taste"
+      ],
+      "steps": [
+        "Wash, dry and chop the romaine lettuce.",
+        "Whisk mayonnaise, lemon juice, garlic, mustard and olive oil into a dressing.",
+        "Toss lettuce with the dressing until lightly coated.",
+        "Add croutons and Parmesan and toss again.",
+        "Season with black pepper and serve immediately."
+      ]
+    },
+    "Greek Salad": {
+      "ingredients": [
+        "Cucumber – 1, chopped",
+        "Tomatoes – 3, chopped",
+        "Red onion – 1/2, sliced",
+        "Green bell pepper – 1, sliced",
+        "Kalamata olives – 1/2 cup",
+        "Feta cheese – 100 g",
+        "Olive oil – 3 tbsp",
+        "Red wine vinegar – 1 tbsp",
+        "Dried oregano – 1 tsp"
+      ],
+      "steps": [
+        "Chop cucumber, tomatoes, onion and bell pepper.",
+        "Combine the vegetables with olives in a large bowl.",
+        "Whisk olive oil, vinegar and oregano together.",
+        "Pour the dressing over the vegetables and toss gently.",
+        "Top with feta and serve."
+      ]
+    },
+    "Tacos": {
+      "ingredients": [
+        "Corn or flour tortillas – 8",
+        "Cooked seasoned meat or beans – 400 g",
+        "Lettuce – 1 cup, shredded",
+        "Tomatoes – 1, diced",
+        "Cheddar cheese – 1 cup, grated",
+        "Sour cream – as needed",
+        "Salsa – as needed"
+      ],
+      "steps": [
+        "Warm the tortillas in a dry skillet.",
+        "Prepare the chosen filling with seasoning until hot and cooked.",
+        "Fill each tortilla with the meat or beans.",
+        "Add lettuce, tomato, cheese, salsa and sour cream.",
+        "Fold and serve immediately."
+      ]
+    },
+    "Chicken Tacos": {
+      "ingredients": [
+        "Chicken breast or thigh – 400 g, diced",
+        "Tortillas – 8",
+        "Onion – 1/2, sliced",
+        "Bell pepper – 1, sliced",
+        "Lime juice – 1 tbsp",
+        "Chili powder – 1 tsp",
+        "Cumin – 1/2 tsp",
+        "Lettuce and salsa – for serving"
+      ],
+      "steps": [
+        "Toss chicken with lime juice, chili powder, cumin, salt and pepper.",
+        "Cook chicken in a hot skillet until browned and cooked through.",
+        "Add onion and bell pepper and sauté until slightly tender.",
+        "Warm the tortillas.",
+        "Fill tortillas with chicken and vegetables and top with lettuce and salsa."
+      ]
+    },
+    "Beef Tacos": {
+      "ingredients": [
+        "Ground beef – 400 g",
+        "Taco shells or tortillas – 8",
+        "Onion – 1/2, chopped",
+        "Tomato – 1, diced",
+        "Chili powder – 1 tsp",
+        "Cumin – 1/2 tsp",
+        "Cheddar cheese – 1 cup",
+        "Lettuce – 1 cup"
+      ],
+      "steps": [
+        "Brown the ground beef with onion in a skillet.",
+        "Add chili powder, cumin, salt and pepper and cook until the beef is fully cooked.",
+        "Warm the taco shells or tortillas.",
+        "Fill with seasoned beef and add lettuce, tomato and cheese.",
+        "Serve with salsa or sour cream if desired."
+      ]
+    },
+    "Chicken Quesadilla": {
+      "ingredients": [
+        "Flour tortillas – 4",
+        "Cooked chicken – 300 g, shredded",
+        "Cheddar or Monterey Jack – 1 1/2 cups",
+        "Bell pepper – 1/2, sliced",
+        "Onion – 1/2, sliced",
+        "Oil – 1 tbsp",
+        "Salsa – for serving"
+      ],
+      "steps": [
+        "Sauté onion and bell pepper until slightly softened and mix with chicken.",
+        "Place a tortilla in a lightly oiled skillet and add cheese, chicken mixture and more cheese.",
+        "Top with another tortilla and cook until the underside is golden.",
+        "Flip carefully and cook until the second side is golden and the cheese melts.",
+        "Cut into wedges and serve with salsa."
+      ]
+    },
+    "Nachos": {
+      "ingredients": [
+        "Tortilla chips – 200 g",
+        "Cheddar or Monterey Jack – 1 1/2 cups",
+        "Cooked beans – 1 cup",
+        "Jalapeños – 1/4 cup",
+        "Tomato – 1, diced",
+        "Sour cream – for serving",
+        "Salsa – for serving",
+        "Guacamole – for serving"
+      ],
+      "steps": [
+        "Preheat the oven to 200°C.",
+        "Spread tortilla chips on a baking tray and scatter beans and cheese over them.",
+        "Bake for 5–8 minutes until the cheese melts.",
+        "Top with jalapeños and diced tomato.",
+        "Serve immediately with sour cream, salsa and guacamole."
+      ]
+    },
+    "Enchiladas": {
+      "ingredients": [
+        "Corn tortillas – 8",
+        "Cooked shredded chicken or beef – 400 g",
+        "Enchilada sauce – 2 cups",
+        "Cheddar or Monterey Jack – 1 1/2 cups",
+        "Onion – 1/2, chopped",
+        "Oil – 1 tbsp"
+      ],
+      "steps": [
+        "Sauté onion and combine with the cooked filling.",
+        "Dip tortillas briefly in warm enchilada sauce to soften.",
+        "Fill and roll each tortilla, then place seam-side down in a baking dish.",
+        "Cover with remaining sauce and cheese.",
+        "Bake at 190°C for 20–25 minutes until bubbling."
+      ]
+    },
+    "Burrito": {
+      "ingredients": [
+        "Large flour tortillas – 4",
+        "Cooked rice – 2 cups",
+        "Cooked beans – 1 1/2 cups",
+        "Cooked chicken or beef – 400 g",
+        "Cheddar cheese – 1 cup",
+        "Salsa – 1/2 cup",
+        "Sour cream – 1/2 cup",
+        "Lettuce – 1 cup"
+      ],
+      "steps": [
+        "Warm the tortillas so they are flexible.",
+        "Place rice, beans, meat, cheese, salsa, sour cream and lettuce in the center.",
+        "Fold the sides inward and roll tightly from the bottom.",
+        "Toast the wrapped burrito seam-side down in a skillet if desired.",
+        "Slice and serve warm."
+      ]
+    },
+    "Fajitas": {
+      "ingredients": [
+        "Chicken or beef strips – 400 g",
+        "Bell peppers – 2, sliced",
+        "Onion – 1, sliced",
+        "Lime juice – 2 tbsp",
+        "Chili powder – 1 tsp",
+        "Cumin – 1/2 tsp",
+        "Oil – 1 tbsp",
+        "Flour tortillas – 8"
+      ],
+      "steps": [
+        "Toss the meat with lime juice, chili powder, cumin, salt and pepper.",
+        "Heat oil in a skillet and cook the meat until browned and cooked through.",
+        "Add peppers and onion and stir-fry until tender-crisp.",
+        "Warm the tortillas.",
+        "Serve the sizzling filling in tortillas with salsa or sour cream."
+      ]
+    },
+    "Guacamole": {
+      "ingredients": [
+        "Ripe avocados – 2",
+        "Tomato – 1, finely diced",
+        "Red onion – 1/4, finely chopped",
+        "Lime juice – 1–2 tbsp",
+        "Cilantro – 2 tbsp, chopped",
+        "Jalapeño – 1, finely chopped (optional)",
+        "Salt – to taste"
+      ],
+      "steps": [
+        "Cut avocados, remove the pits and scoop the flesh into a bowl.",
+        "Mash the avocado with a fork, leaving some texture.",
+        "Stir in tomato, onion, cilantro and jalapeño if using.",
+        "Add lime juice and salt and mix gently.",
+        "Serve immediately with tortilla chips or as a topping."
+      ]
+    },
+    "Churros": {
+      "ingredients": [
+        "Water – 1 cup",
+        "Butter – 2 tbsp",
+        "Sugar – 1 tbsp",
+        "Salt – 1/4 tsp",
+        "All-purpose flour – 1 cup",
+        "Egg – 1, optional",
+        "Oil – for frying",
+        "Sugar and cinnamon – for coating"
+      ],
+      "steps": [
+        "Bring water, butter, sugar and salt to a boil.",
+        "Add flour and stir vigorously until a smooth dough forms; cool slightly and mix in the egg if using.",
+        "Pipe strips of dough into oil heated to about 175°C.",
+        "Fry until golden and crisp, then drain on paper towels.",
+        "Roll in cinnamon sugar and serve."
+      ]
+    },
+    "French Onion Soup": {
+      "ingredients": [
+        "Onions – 5 large, thinly sliced",
+        "Butter – 3 tbsp",
+        "Olive oil – 1 tbsp",
+        "Beef stock – 1 liter",
+        "Thyme – 1 tsp",
+        "Baguette slices – 4–6",
+        "Gruyère cheese – 100 g",
+        "Salt and pepper – to taste"
+      ],
+      "steps": [
+        "Melt butter with olive oil and cook onions over low-medium heat until deeply caramelized, about 30–40 minutes.",
+        "Add thyme, salt and pepper.",
+        "Pour in beef stock and simmer for 15–20 minutes.",
+        "Ladle soup into ovenproof bowls and top with toasted baguette and Gruyère.",
+        "Broil until the cheese is melted and browned, then serve carefully."
+      ]
+    },
+    "French Ratatouille": {
+      "ingredients": [
+        "Eggplant – 1, diced",
+        "Zucchini – 1, diced",
+        "Bell pepper – 1, diced",
+        "Tomatoes – 4, chopped",
+        "Onion – 1, chopped",
+        "Garlic – 3 cloves",
+        "Olive oil – 3 tbsp",
+        "Herbs de Provence – 1 tsp"
+      ],
+      "steps": [
+        "Heat olive oil and sauté onion and garlic.",
+        "Add eggplant and cook until it begins to soften.",
+        "Add zucchini and bell pepper and cook for several minutes.",
+        "Add tomatoes, herbs, salt and pepper and simmer gently until all vegetables are tender.",
+        "Adjust seasoning and serve warm or at room temperature."
+      ]
+    },
+    "Croque Monsieur": {
+      "ingredients": [
+        "Bread – 8 slices",
+        "Ham – 4–8 slices",
+        "Gruyère or Emmental – 150 g",
+        "Butter – 2 tbsp",
+        "Milk – 1 cup",
+        "Flour – 1 tbsp",
+        "Nutmeg – a pinch"
+      ],
+      "steps": [
+        "Make a béchamel by melting butter, whisking in flour, then gradually adding milk until thick; season with nutmeg, salt and pepper.",
+        "Spread béchamel on bread slices and layer with ham and cheese.",
+        "Close the sandwiches and spread more béchamel and cheese on top.",
+        "Bake at 200°C until the sandwiches are hot and the cheese is bubbling and browned.",
+        "Serve immediately."
+      ]
+    },
+    "Quiche Lorraine": {
+      "ingredients": [
+        "Pie crust – 1",
+        "Bacon – 150 g, chopped",
+        "Eggs – 4",
+        "Heavy cream – 1 cup",
+        "Milk – 1/2 cup",
+        "Gruyère cheese – 100 g",
+        "Onion – 1/2, optional",
+        "Salt, pepper and nutmeg – to taste"
+      ],
+      "steps": [
+        "Preheat oven to 190°C and blind-bake the crust for about 10 minutes.",
+        "Cook bacon until lightly crisp; drain excess fat.",
+        "Whisk eggs, cream, milk, seasoning and nutmeg.",
+        "Scatter bacon and cheese in the crust and pour in the egg mixture.",
+        "Bake for about 30–40 minutes until the center is set. Cool slightly before slicing."
+      ]
+    },
+    "Coq au Vin": {
+      "ingredients": [
+        "Chicken pieces – 1 kg",
+        "Bacon – 150 g",
+        "Red wine – 500 ml",
+        "Onion – 1, chopped",
+        "Carrots – 2, sliced",
+        "Mushrooms – 200 g",
+        "Garlic – 3 cloves",
+        "Chicken stock – 250 ml",
+        "Tomato paste – 1 tbsp",
+        "Thyme – 1 tsp"
+      ],
+      "steps": [
+        "Brown the bacon and chicken pieces in a heavy pot; remove and set aside.",
+        "Sauté onion, carrots, garlic and mushrooms.",
+        "Return chicken and bacon, add tomato paste and pour in red wine and stock.",
+        "Add thyme and simmer covered until the chicken is tender, about 45–60 minutes.",
+        "Adjust seasoning and serve with bread, potatoes or noodles."
+      ]
+    },
+    "Beef Bourguignon": {
+      "ingredients": [
+        "Beef chuck – 1 kg, cubed",
+        "Red wine – 500 ml",
+        "Beef stock – 500 ml",
+        "Bacon – 150 g",
+        "Onion – 1",
+        "Carrots – 2",
+        "Mushrooms – 200 g",
+        "Garlic – 3 cloves",
+        "Tomato paste – 1 tbsp",
+        "Thyme – 1 tsp"
+      ],
+      "steps": [
+        "Brown the bacon and beef in batches in a heavy pot.",
+        "Sauté onion, carrots and garlic, then stir in tomato paste.",
+        "Return beef and add red wine and beef stock with thyme.",
+        "Cover and simmer gently for about 2–3 hours until the beef is tender.",
+        "Add mushrooms near the end, adjust seasoning and serve."
+      ]
+    },
+    "Spanish Paella": {
+      "ingredients": [
+        "Bomba or short-grain rice – 1 1/2 cups",
+        "Chicken – 300 g, pieces",
+        "Shrimp – 200 g",
+        "Chorizo – 100 g, sliced (optional)",
+        "Bell pepper – 1",
+        "Tomatoes – 2, chopped",
+        "Chicken stock – 4 cups",
+        "Saffron – a pinch",
+        "Paprika – 1 tsp",
+        "Olive oil – 2 tbsp",
+        "Peas – 1/2 cup"
+      ],
+      "steps": [
+        "Heat olive oil in a wide paella pan and brown chicken and chorizo if using.",
+        "Add pepper and tomatoes and cook until softened.",
+        "Stir in paprika and rice, then add saffron-infused stock.",
+        "Arrange shrimp and peas over the rice and cook without stirring until the rice is tender and the liquid is absorbed.",
+        "Rest for 5 minutes and serve with lemon wedges."
+      ]
+    },
+    "Spanish Omelette": {
+      "ingredients": [
+        "Potatoes – 500 g, thinly sliced",
+        "Onion – 1, sliced",
+        "Eggs – 6",
+        "Olive oil – 1/2 cup",
+        "Salt – to taste"
+      ],
+      "steps": [
+        "Heat olive oil and gently cook potatoes and onion until tender, without browning heavily.",
+        "Drain most of the oil and let the potato mixture cool slightly.",
+        "Beat eggs with salt and mix with the potatoes and onion.",
+        "Pour into a nonstick pan and cook over medium-low heat until mostly set.",
+        "Flip carefully and cook the other side until set, then slice and serve."
+      ]
+    },
+    "Patatas Bravas": {
+      "ingredients": [
+        "Potatoes – 500 g",
+        "Olive oil – for frying",
+        "Tomato passata – 1 cup",
+        "Garlic – 2 cloves",
+        "Paprika – 1 tsp",
+        "Smoked paprika – 1/2 tsp",
+        "Sherry vinegar – 1 tbsp",
+        "Mayonnaise or aioli – for serving"
+      ],
+      "steps": [
+        "Cut potatoes into bite-sized cubes and rinse and dry them.",
+        "Fry or roast potatoes until crisp and golden.",
+        "For the bravas sauce, sauté garlic, add passata, paprika and vinegar, and simmer until thick.",
+        "Season the sauce and spoon it over the hot potatoes.",
+        "Serve with aioli or mayonnaise."
+      ]
+    },
+    "Greek Moussaka": {
+      "ingredients": [
+        "Eggplant – 2 large",
+        "Ground beef or lamb – 500 g",
+        "Onion – 1",
+        "Garlic – 2 cloves",
+        "Crushed tomatoes – 400 g",
+        "Cinnamon – 1/2 tsp",
+        "Béchamel sauce – 2 cups",
+        "Parmesan – 1/2 cup",
+        "Olive oil – 3 tbsp"
+      ],
+      "steps": [
+        "Slice eggplant, salt lightly and roast or pan-cook until tender.",
+        "Sauté onion and garlic, brown the meat and simmer with tomatoes and cinnamon.",
+        "Layer eggplant and meat sauce in a baking dish.",
+        "Spread béchamel over the top and sprinkle with Parmesan.",
+        "Bake at 180°C for 40–45 minutes until browned; rest before slicing."
+      ]
+    },
+    "Greek Souvlaki": {
+      "ingredients": [
+        "Chicken or pork – 500 g, cubed",
+        "Olive oil – 3 tbsp",
+        "Lemon juice – 2 tbsp",
+        "Garlic – 2 cloves",
+        "Dried oregano – 1 tsp",
+        "Salt and pepper – to taste",
+        "Pita bread – 4",
+        "Tzatziki – for serving"
+      ],
+      "steps": [
+        "Mix oil, lemon juice, garlic, oregano, salt and pepper and marinate the meat for at least 30 minutes.",
+        "Thread the meat onto skewers.",
+        "Grill over medium-high heat until browned and cooked through, turning regularly.",
+        "Warm the pita breads.",
+        "Serve skewers with pita, tzatziki and salad."
+      ]
+    },
+    "Falafel Wrap": {
+      "ingredients": [
+        "Dried chickpeas – 1 cup, soaked overnight",
+        "Onion – 1/2",
+        "Garlic – 2 cloves",
+        "Parsley or cilantro – 1/2 cup",
+        "Cumin – 1 tsp",
+        "Ground coriander – 1 tsp",
+        "Flour – 1 tbsp",
+        "Pita or flatbread – 4",
+        "Tahini sauce – for serving"
+      ],
+      "steps": [
+        "Drain soaked chickpeas thoroughly and blend with onion, garlic, herbs and spices until finely ground but not smooth.",
+        "Mix in flour and shape into small balls or patties.",
+        "Fry in about 175°C oil until crisp and golden, or bake until browned.",
+        "Warm the flatbreads and spread with tahini sauce.",
+        "Add falafel and salad, wrap tightly and serve."
+      ]
+    },
+    "Hummus Plate": {
+      "ingredients": [
+        "Cooked chickpeas – 2 cups",
+        "Tahini – 1/3 cup",
+        "Lemon juice – 3 tbsp",
+        "Garlic – 1 clove",
+        "Olive oil – 2 tbsp",
+        "Cold water – 2–4 tbsp",
+        "Salt – to taste",
+        "Paprika and parsley – for garnish"
+      ],
+      "steps": [
+        "Blend chickpeas, tahini, lemon juice, garlic and salt until smooth.",
+        "Add cold water gradually until the hummus reaches a creamy consistency.",
+        "Taste and adjust lemon juice and salt.",
+        "Spread hummus onto a plate and make a shallow swirl with a spoon.",
+        "Drizzle with olive oil and garnish with paprika and parsley; serve with pita and vegetables."
+      ]
+    },
+    "Shakshuka": {
+      "ingredients": [
+        "Eggs – 4–6",
+        "Tomatoes – 500 g, chopped or crushed",
+        "Bell pepper – 1, chopped",
+        "Onion – 1, chopped",
+        "Garlic – 2 cloves",
+        "Paprika – 1 tsp",
+        "Cumin – 1/2 tsp",
+        "Olive oil – 2 tbsp",
+        "Parsley or cilantro – for garnish"
+      ],
+      "steps": [
+        "Heat olive oil and sauté onion and bell pepper until softened.",
+        "Add garlic, paprika and cumin and cook briefly.",
+        "Add tomatoes and simmer for 10–15 minutes until the sauce thickens.",
+        "Make wells in the sauce and crack the eggs into them; cover and cook until the whites are set and yolks are at the desired doneness.",
+        "Garnish with herbs and serve with bread."
+      ]
+    },
+    "Thai Green Curry": {
+      "ingredients": [
+        "Chicken – 400 g, sliced",
+        "Thai green curry paste – 2–3 tbsp",
+        "Coconut milk – 400 ml",
+        "Thai eggplant or mixed vegetables – 2 cups",
+        "Fish sauce – 1 tbsp",
+        "Brown sugar – 1 tsp",
+        "Thai basil – 1/2 cup",
+        "Oil – 1 tbsp"
+      ],
+      "steps": [
+        "Heat oil and fry the green curry paste for 1–2 minutes until fragrant.",
+        "Add a little coconut milk and cook the paste briefly.",
+        "Add chicken and cook until nearly done.",
+        "Add remaining coconut milk, vegetables, fish sauce and sugar; simmer until the chicken and vegetables are cooked.",
+        "Stir in Thai basil and serve hot with steamed jasmine rice."
+      ]
+    },
+    "Japanese Ramen": {
+      "ingredients": [
+        "Ramen noodles – 2 portions",
+        "Chicken or vegetable broth – 4 cups",
+        "Soy sauce – 2 tbsp",
+        "Miso paste – 1 tbsp",
+        "Garlic – 1 clove",
+        "Ginger – 1 tsp, grated",
+        "Eggs – 2",
+        "Spring onions – 2, sliced",
+        "Corn or mushrooms – optional"
+      ],
+      "steps": [
+        "Soft-boil the eggs for about 6–7 minutes, cool, peel and halve.",
+        "Heat broth with garlic, ginger, soy sauce and miso until steaming.",
+        "Cook ramen noodles separately according to the package directions and drain.",
+        "Place noodles in bowls and pour over the hot broth.",
+        "Top with egg, spring onion and vegetables and serve immediately."
+      ]
+    },
+    "Korean Bibimbap": {
+      "ingredients": [
+        "Cooked short-grain rice – 3 cups",
+        "Beef – 250 g, thinly sliced",
+        "Carrot – 1, julienned",
+        "Spinach – 2 cups",
+        "Bean sprouts – 1 cup",
+        "Mushrooms – 1 cup, sliced",
+        "Eggs – 2",
+        "Gochujang – 3 tbsp",
+        "Sesame oil – 1 tbsp",
+        "Soy sauce – 1 tbsp"
+      ],
+      "steps": [
+        "Season beef with soy sauce and a little sesame oil, then stir-fry until cooked.",
+        "Cook spinach, carrots, mushrooms and bean sprouts separately until just tender.",
+        "Divide hot rice among bowls and arrange the vegetables and beef over it.",
+        "Fry eggs and place one on each bowl.",
+        "Serve with gochujang and sesame oil; mix everything together before eating."
+      ]
+    },
+    "Vietnamese Pho": {
+      "ingredients": [
+        "Rice noodles – 250 g",
+        "Beef bones – 1 kg (for traditional broth)",
+        "Beef slices – 250 g",
+        "Onion – 1, halved",
+        "Ginger – 1 large piece",
+        "Star anise – 3",
+        "Cinnamon stick – 1",
+        "Fish sauce – 2 tbsp",
+        "Sugar – 1 tsp",
+        "Bean sprouts – 1 cup",
+        "Fresh herbs and lime – for serving"
+      ],
+      "steps": [
+        "Blanch the beef bones, rinse them, then simmer with onion and ginger in fresh water for a clear broth.",
+        "Toast star anise and cinnamon briefly and add them to the broth; simmer for several hours, skimming as needed.",
+        "Strain the broth and season with fish sauce and sugar.",
+        "Cook rice noodles according to the package directions and divide among bowls.",
+        "Top with thin beef slices, pour over very hot broth, and serve with bean sprouts, herbs and lime."
+      ]
+    }
+  },
+  "dessertRecipeDetails": {
+    "Gulab Jamun": {
+      "ingredients": [
+        "1 cup milk powder",
+        "1/4 cup all-purpose flour (maida)",
+        "1/4 tsp baking soda",
+        "2 tbsp ghee",
+        "About 1/4 cup milk, as needed",
+        "Oil or ghee for frying",
+        "2 cups sugar",
+        "1 1/2 cups water",
+        "3–4 cardamom pods",
+        "1 tsp rose water (optional)"
+      ],
+      "steps": [
+        "Make a soft dough by mixing milk powder, flour, baking soda and ghee, adding milk little by little.",
+        "Rest the dough for 5–10 minutes, then form small smooth balls without cracks.",
+        "Heat oil or ghee on low-medium heat and fry the balls slowly until evenly golden brown.",
+        "Boil sugar, water and cardamom for about 5–7 minutes to make a light syrup; add rose water if desired.",
+        "Soak the warm fried jamuns in the warm syrup for at least 1–2 hours before serving."
+      ]
+    },
+    "Rasmalai": {
+      "ingredients": [
+        "1 liter full-fat milk",
+        "1–2 tbsp lemon juice, diluted with water",
+        "1 cup sugar",
+        "4 cups water",
+        "4–5 tbsp sugar for rabri",
+        "1/2 tsp cardamom powder",
+        "2 tbsp chopped pistachios",
+        "2 tbsp chopped almonds",
+        "A few saffron strands"
+      ],
+      "steps": [
+        "Boil half the milk and curdle it gradually with diluted lemon juice. Strain the chhena, rinse and hang it to drain.",
+        "Knead the chhena until smooth, divide it into portions and flatten into small discs.",
+        "Boil sugar and water, add the discs and cook covered for about 12–15 minutes until puffed.",
+        "Reduce the remaining milk over medium heat until creamy and slightly thick, then add sugar, cardamom, saffron and nuts.",
+        "Gently squeeze the cooked discs and soak them in the prepared rabri. Chill before serving."
+      ]
+    },
+    "Jalebi": {
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tbsp cornflour",
+        "1/2 cup yogurt",
+        "Water as needed",
+        "1/4 tsp turmeric or a small amount of orange food color (optional)",
+        "Oil or ghee for frying",
+        "1 1/2 cups sugar",
+        "3/4 cup water",
+        "3–4 cardamom pods",
+        "1 tsp lemon juice"
+      ],
+      "steps": [
+        "Mix flour, cornflour and yogurt with water into a thick, smooth batter. Rest or ferment it for 8–12 hours for traditional flavor.",
+        "Prepare a one-string sugar syrup with sugar, water and cardamom; add lemon juice to prevent crystallization.",
+        "Transfer batter to a squeeze bottle or piping bag.",
+        "Pipe spirals into medium-hot oil and fry until crisp and golden.",
+        "Immediately dip the jalebis in warm syrup for about 20–30 seconds, then serve."
+      ]
+    },
+    "Kheer": {
+      "ingredients": [
+        "1/4 cup basmati rice",
+        "1 liter full-fat milk",
+        "1/3–1/2 cup sugar",
+        "4 cardamom pods, crushed",
+        "1 tbsp chopped almonds",
+        "1 tbsp chopped pistachios",
+        "1 tbsp raisins",
+        "A few saffron strands"
+      ],
+      "steps": [
+        "Rinse and soak rice for 15–20 minutes, then drain.",
+        "Bring milk to a boil in a heavy-bottomed pan. Add rice and cook on low heat, stirring frequently.",
+        "Cook until the rice is soft and the milk thickens.",
+        "Add sugar, cardamom, saffron, nuts and raisins; simmer for another 5–8 minutes.",
+        "Serve warm or chilled."
+      ]
+    },
+    "Gajar Halwa": {
+      "ingredients": [
+        "500 g carrots, grated",
+        "500 ml full-fat milk",
+        "1/3–1/2 cup sugar",
+        "2 tbsp ghee",
+        "3–4 cardamom pods, powdered",
+        "2 tbsp chopped nuts",
+        "1 tbsp raisins"
+      ],
+      "steps": [
+        "Wash, peel and grate the carrots.",
+        "Cook carrots with milk in a heavy pan until the milk is mostly absorbed and the carrots are tender.",
+        "Add sugar and continue cooking until the mixture thickens.",
+        "Add ghee, cardamom, nuts and raisins and cook for another 5–8 minutes.",
+        "Serve warm or chilled."
+      ]
+    },
+    "Rasgulla": {
+      "ingredients": [
+        "1 liter full-fat milk",
+        "2 tbsp lemon juice, diluted",
+        "1 cup sugar",
+        "4 cups water",
+        "2–3 cardamom pods (optional)"
+      ],
+      "steps": [
+        "Boil milk and curdle it with diluted lemon juice. Strain and rinse the chhena well.",
+        "Hang the chhena for about 30 minutes, then knead until smooth and slightly soft.",
+        "Shape into small crack-free balls.",
+        "Boil sugar and water in a wide pan. Add the balls, cover and cook for about 15–18 minutes.",
+        "Cool slightly and serve soaked in the syrup."
+      ]
+    },
+    "Kulfi": {
+      "ingredients": [
+        "1 liter full-fat milk",
+        "1/3 cup sugar",
+        "1/2 tsp cardamom powder",
+        "A few saffron strands",
+        "2 tbsp chopped pistachios",
+        "1 tbsp chopped almonds"
+      ],
+      "steps": [
+        "Bring milk to a boil in a heavy pan and simmer, stirring often, until reduced by roughly one-third to one-half.",
+        "Add sugar, saffron and cardamom and simmer until creamy.",
+        "Stir in chopped nuts and cool the mixture completely.",
+        "Pour into kulfi molds or small containers and freeze for at least 6 hours.",
+        "Unmold briefly under warm water and serve."
+      ]
+    },
+    "Chocolate Cake": {
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "3/4 cup unsweetened cocoa powder",
+        "1 1/2 cups sugar",
+        "1 1/2 tsp baking powder",
+        "1 1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "2 eggs",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "2 tsp vanilla extract",
+        "1 cup hot water or hot coffee"
+      ],
+      "steps": [
+        "Preheat the oven to 175°C and grease a cake pan.",
+        "Whisk flour, cocoa, sugar, baking powder, baking soda and salt.",
+        "Add eggs, milk, oil and vanilla and mix until combined.",
+        "Stir in hot water or coffee carefully; the batter will be thin.",
+        "Bake for about 30–35 minutes, or until a toothpick comes out clean. Cool before serving or frosting."
+      ]
+    },
+    "Vanilla Cake": {
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 cup sugar",
+        "1 1/2 tsp baking powder",
+        "1/4 tsp salt",
+        "1/2 cup unsalted butter, softened",
+        "2 eggs",
+        "1/2 cup milk",
+        "2 tsp vanilla extract"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and grease a cake pan.",
+        "Cream butter and sugar until light. Beat in eggs one at a time, then add vanilla.",
+        "Mix flour, baking powder and salt separately.",
+        "Add dry ingredients to the butter mixture alternately with milk, mixing just until combined.",
+        "Bake for about 30–35 minutes. Cool before slicing."
+      ]
+    },
+    "Red Velvet Cake": {
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 1/2 cups sugar",
+        "1 tsp baking soda",
+        "1 tsp cocoa powder",
+        "1/2 tsp salt",
+        "1 1/2 cups buttermilk",
+        "1 1/2 cups vegetable oil",
+        "2 large eggs",
+        "1 tsp vanilla extract",
+        "1 tbsp red food coloring",
+        "1 tsp vinegar"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and prepare two cake pans.",
+        "Whisk flour, sugar, baking soda, cocoa and salt.",
+        "Mix buttermilk, oil, eggs, vanilla, coloring and vinegar.",
+        "Combine wet and dry ingredients without overmixing.",
+        "Divide into pans and bake about 25–30 minutes. Cool completely before frosting with cream cheese frosting."
+      ]
+    },
+    "Black Forest Cake": {
+      "ingredients": [
+        "1 chocolate sponge cake, baked and cooled",
+        "1 cup whipping cream",
+        "2–3 tbsp powdered sugar",
+        "1 tsp vanilla extract",
+        "1 cup pitted cherries",
+        "2–3 tbsp cherry syrup or juice",
+        "1/2 cup chocolate shavings"
+      ],
+      "steps": [
+        "Slice the cooled chocolate cake horizontally into layers.",
+        "Whip cream with powdered sugar and vanilla until stiff peaks form.",
+        "Brush each cake layer lightly with cherry syrup, then spread cream and add cherries.",
+        "Stack the layers and cover the cake with whipped cream.",
+        "Decorate with chocolate shavings and cherries; chill before serving."
+      ]
+    },
+    "Cheesecake": {
+      "ingredients": [
+        "250 g digestive biscuits",
+        "100 g melted butter",
+        "500 g cream cheese",
+        "3/4 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1/2 cup sour cream"
+      ],
+      "steps": [
+        "Crush biscuits and mix with melted butter. Press into the base of a lined springform pan.",
+        "Beat cream cheese and sugar until smooth.",
+        "Beat in eggs one at a time, then mix in vanilla and sour cream.",
+        "Pour over the crust and bake at 160°C for about 45–55 minutes until the center is just set.",
+        "Cool gradually, then refrigerate for at least 4 hours before slicing."
+      ]
+    },
+    "New York Cheesecake": {
+      "ingredients": [
+        "250 g digestive or graham crackers",
+        "100 g melted butter",
+        "700 g full-fat cream cheese",
+        "1 cup sugar",
+        "3 eggs",
+        "1 tsp vanilla extract",
+        "1/2 cup sour cream",
+        "1 tbsp lemon juice"
+      ],
+      "steps": [
+        "Preheat oven to 160°C. Make a biscuit-and-butter crust and press firmly into a springform pan.",
+        "Beat cream cheese and sugar until smooth, avoiding excessive aeration.",
+        "Add eggs one at a time, followed by vanilla, sour cream and lemon juice.",
+        "Pour into the crust and bake until the edges are set and the center has a slight wobble, about 55–70 minutes.",
+        "Cool completely and refrigerate for several hours before serving."
+      ]
+    },
+    "Chocolate Brownie": {
+      "ingredients": [
+        "1/2 cup unsalted butter",
+        "1 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "1/2 cup all-purpose flour",
+        "1/3 cup cocoa powder",
+        "1/4 tsp salt",
+        "1/2 cup chocolate chips (optional)"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and line a square baking pan.",
+        "Melt butter and whisk with sugar. Add eggs and vanilla.",
+        "Fold in flour, cocoa and salt until just combined.",
+        "Fold in chocolate chips if using.",
+        "Bake about 20–25 minutes. Cool before cutting."
+      ]
+    },
+    "Fudge Brownie": {
+      "ingredients": [
+        "1/2 cup unsalted butter",
+        "1 cup sugar",
+        "2 eggs",
+        "1 tsp vanilla extract",
+        "3/4 cup all-purpose flour",
+        "1/2 cup cocoa powder",
+        "1/4 tsp salt",
+        "1/2 cup melted dark chocolate"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and line a square pan.",
+        "Melt butter and chocolate together. Whisk in sugar, eggs and vanilla.",
+        "Fold in flour, cocoa and salt just until combined.",
+        "Spread into the pan and bake for about 20–25 minutes; do not overbake.",
+        "Cool fully for a dense, fudgy texture before cutting."
+      ]
+    },
+    "Chocolate Mousse": {
+      "ingredients": [
+        "150 g dark chocolate",
+        "3 eggs, separated",
+        "2 tbsp sugar",
+        "1 cup whipping cream",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Melt chocolate gently and let it cool slightly.",
+        "Whisk egg yolks into the chocolate mixture.",
+        "Whip cream with vanilla until soft peaks form.",
+        "Whip egg whites with sugar until glossy peaks form.",
+        "Fold whipped cream and then egg whites gently into the chocolate. Chill for at least 2 hours."
+      ]
+    },
+    "Vanilla Mousse": {
+      "ingredients": [
+        "1 cup whipping cream",
+        "1/3 cup sugar",
+        "1 tsp vanilla extract",
+        "1 tsp unflavored gelatin",
+        "2 tbsp cold water",
+        "1/2 cup milk"
+      ],
+      "steps": [
+        "Sprinkle gelatin over cold water and let it bloom.",
+        "Warm milk and dissolve the bloomed gelatin in it; cool slightly.",
+        "Whip cream with sugar and vanilla to soft peaks.",
+        "Fold the cooled milk mixture gently into the cream.",
+        "Divide into serving glasses and refrigerate until set."
+      ]
+    },
+    "Fruit Custard": {
+      "ingredients": [
+        "500 ml milk",
+        "3 tbsp custard powder",
+        "4 tbsp sugar",
+        "1/2 cup chopped apple",
+        "1/2 cup banana",
+        "1/2 cup grapes",
+        "1/2 cup mango or other seasonal fruit"
+      ],
+      "steps": [
+        "Mix custard powder with a little cold milk to make a smooth slurry.",
+        "Heat remaining milk with sugar. Add the slurry and cook while stirring until thick.",
+        "Cool the custard completely.",
+        "Fold in chopped fruits just before serving.",
+        "Chill for at least 1 hour."
+      ]
+    },
+    "Fruit Tart": {
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1/2 cup cold butter",
+        "1/4 cup powdered sugar",
+        "1 egg yolk",
+        "2–3 tbsp cold water",
+        "1 cup pastry cream or thick custard",
+        "1–2 cups mixed fresh fruits"
+      ],
+      "steps": [
+        "Mix flour, sugar and cold butter until crumbly. Add egg yolk and enough cold water to form dough.",
+        "Chill the dough for 30 minutes, then roll and line a tart pan.",
+        "Prick the base and bake at 180°C for about 18–22 minutes until golden. Cool.",
+        "Fill with pastry cream and arrange fresh fruit on top.",
+        "Chill until ready to serve."
+      ]
+    },
+    "Apple Pie": {
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "1 cup cold butter, cubed",
+        "1/3 cup sugar",
+        "1/4 tsp salt",
+        "5–6 apples, peeled and sliced",
+        "1/2 cup sugar",
+        "1 tsp cinnamon",
+        "1 tbsp lemon juice",
+        "1 tbsp flour or cornstarch"
+      ],
+      "steps": [
+        "Make a pie dough with flour, salt, sugar and cold butter, adding cold water as needed. Chill.",
+        "Toss sliced apples with sugar, cinnamon, lemon juice and flour.",
+        "Roll half the dough into the pie dish and add the apple filling.",
+        "Cover with the remaining dough, seal and cut vents.",
+        "Bake at 190°C for about 45–55 minutes until golden and bubbling."
+      ]
+    },
+    "Pumpkin Pie": {
+      "ingredients": [
+        "1 unbaked 9-inch pie crust",
+        "2 cups pumpkin puree",
+        "3/4 cup brown sugar",
+        "2 eggs",
+        "1 cup evaporated milk or cream",
+        "1 tsp cinnamon",
+        "1/2 tsp ginger",
+        "1/4 tsp nutmeg",
+        "1/4 tsp salt"
+      ],
+      "steps": [
+        "Preheat oven to 220°C.",
+        "Whisk pumpkin, sugar, eggs, milk, spices and salt until smooth.",
+        "Pour into the pie crust.",
+        "Bake at 220°C for 15 minutes, then reduce to 175°C and bake for another 35–45 minutes until the center is set.",
+        "Cool before slicing."
+      ]
+    },
+    "Lemon Tart": {
+      "ingredients": [
+        "1 tart shell, blind-baked",
+        "3 eggs",
+        "3/4 cup sugar",
+        "1/2 cup fresh lemon juice",
+        "1 tbsp lemon zest",
+        "1/2 cup heavy cream",
+        "2 tbsp melted butter"
+      ],
+      "steps": [
+        "Prepare and blind-bake the tart shell until lightly golden.",
+        "Whisk eggs and sugar, then add lemon juice, zest, cream and melted butter.",
+        "Pour the filling into the cooled shell.",
+        "Bake at 160°C until the filling is just set with a slight wobble, about 20–25 minutes.",
+        "Cool and refrigerate before serving."
+      ]
+    },
+    "Chocolate Tart": {
+      "ingredients": [
+        "1 tart shell, baked",
+        "200 g dark chocolate",
+        "3/4 cup heavy cream",
+        "2 tbsp butter",
+        "2 tbsp sugar (optional)"
+      ],
+      "steps": [
+        "Bake and cool the tart shell.",
+        "Heat cream until just simmering. Pour over chopped chocolate and let stand for 2 minutes.",
+        "Stir until smooth, then mix in butter and sugar if desired.",
+        "Pour ganache into the tart shell.",
+        "Refrigerate until set, about 2 hours."
+      ]
+    },
+    "Strawberry Tart": {
+      "ingredients": [
+        "1 baked sweet tart shell",
+        "1 cup pastry cream",
+        "2 cups fresh strawberries",
+        "2 tbsp apricot jam or strawberry jam"
+      ],
+      "steps": [
+        "Bake and cool the tart shell.",
+        "Spread pastry cream evenly inside the shell.",
+        "Arrange sliced or halved strawberries over the cream.",
+        "Warm the jam with a little water and brush lightly over the fruit for shine.",
+        "Chill until serving."
+      ]
+    },
+    "Tiramisu": {
+      "ingredients": [
+        "250 g mascarpone",
+        "3 eggs, separated",
+        "1/3 cup sugar",
+        "1 cup strong cooled coffee",
+        "2 tbsp coffee liqueur (optional)",
+        "200 g ladyfinger biscuits",
+        "Unsweetened cocoa powder"
+      ],
+      "steps": [
+        "Whisk egg yolks with sugar until pale, then mix in mascarpone.",
+        "Whip egg whites to soft peaks and fold gently into the mascarpone mixture.",
+        "Dip ladyfingers briefly in cooled coffee, avoiding over-soaking.",
+        "Layer biscuits and mascarpone cream in a dish.",
+        "Refrigerate for at least 6 hours and dust with cocoa before serving."
+      ]
+    },
+    "Panna Cotta": {
+      "ingredients": [
+        "2 cups heavy cream",
+        "1/2 cup milk",
+        "1/3 cup sugar",
+        "1 tsp vanilla extract",
+        "2 tsp unflavored gelatin",
+        "3 tbsp cold water"
+      ],
+      "steps": [
+        "Sprinkle gelatin over cold water and let it bloom.",
+        "Warm cream, milk and sugar until the sugar dissolves; do not boil.",
+        "Remove from heat, add vanilla and dissolve the gelatin into the warm mixture.",
+        "Pour into molds or glasses.",
+        "Refrigerate for at least 4 hours until set."
+      ]
+    },
+    "Creme Brulee": {
+      "ingredients": [
+        "2 cups heavy cream",
+        "5 egg yolks",
+        "1/3 cup sugar",
+        "1 tsp vanilla extract",
+        "3–4 tbsp fine sugar for topping"
+      ],
+      "steps": [
+        "Preheat oven to 150°C.",
+        "Warm cream with vanilla until hot but not boiling.",
+        "Whisk egg yolks with sugar, then gradually whisk in the warm cream.",
+        "Pour into ramekins and bake in a water bath for about 35–45 minutes until just set.",
+        "Cool and refrigerate. Sprinkle sugar over each top and caramelize with a torch or under a hot grill."
+      ]
+    },
+    "Cannoli": {
+      "ingredients": [
+        "Cannoli shells",
+        "250 g ricotta, well drained",
+        "1/3 cup powdered sugar",
+        "1/2 tsp vanilla extract",
+        "2 tbsp mini chocolate chips",
+        "1 tbsp chopped pistachios"
+      ],
+      "steps": [
+        "Beat drained ricotta with powdered sugar and vanilla until smooth.",
+        "Fold in chocolate chips and pistachios.",
+        "Fill cooled cannoli shells with the ricotta mixture just before serving.",
+        "Dust with powdered sugar and garnish with pistachios if desired."
+      ]
+    },
+    "Macarons": {
+      "ingredients": [
+        "100 g almond flour",
+        "100 g powdered sugar",
+        "100 g egg whites",
+        "100 g granulated sugar",
+        "Food coloring, optional",
+        "Buttercream or ganache for filling"
+      ],
+      "steps": [
+        "Sift almond flour and powdered sugar together.",
+        "Whip egg whites with granulated sugar until stiff, glossy peaks form; add coloring if desired.",
+        "Fold dry ingredients into the meringue until the batter flows slowly and smoothly.",
+        "Pipe small rounds onto a lined tray and rest until a skin forms.",
+        "Bake at about 150°C for 12–15 minutes. Cool and sandwich with filling."
+      ]
+    },
+    "Donuts": {
+      "ingredients": [
+        "2 1/2 cups all-purpose flour",
+        "2 1/4 tsp instant yeast",
+        "1/4 cup sugar",
+        "1/2 tsp salt",
+        "3/4 cup warm milk",
+        "1 egg",
+        "2 tbsp butter, softened",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Mix flour, yeast, sugar and salt. Add warm milk, egg and butter to form a soft dough.",
+        "Knead until smooth, then cover and let rise until doubled.",
+        "Roll the dough and cut donut shapes.",
+        "Let them rest for 20–30 minutes.",
+        "Fry in 175–180°C oil until golden on both sides. Glaze or coat as desired."
+      ]
+    },
+    "Chocolate Donuts": {
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1/2 cup cocoa powder",
+        "1/2 cup sugar",
+        "1 tsp baking powder",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "2 eggs",
+        "3/4 cup milk",
+        "1/3 cup vegetable oil",
+        "1 tsp vanilla extract",
+        "Chocolate glaze, as needed"
+      ],
+      "steps": [
+        "Whisk flour, cocoa, sugar, baking powder, baking soda and salt.",
+        "Add eggs, milk, oil and vanilla and mix just until combined.",
+        "Pipe or spoon batter into greased donut molds.",
+        "Bake at 175°C for about 10–14 minutes until set.",
+        "Cool and dip in chocolate glaze."
+      ]
+    },
+    "Cinnamon Rolls": {
+      "ingredients": [
+        "3 cups all-purpose flour",
+        "2 1/4 tsp instant yeast",
+        "1/4 cup sugar",
+        "1/2 tsp salt",
+        "3/4 cup warm milk",
+        "1 egg",
+        "3 tbsp butter",
+        "1/3 cup brown sugar",
+        "1 1/2 tsp ground cinnamon"
+      ],
+      "steps": [
+        "Combine flour, yeast, sugar, salt, warm milk, egg and butter into a soft dough.",
+        "Knead and let rise until doubled.",
+        "Roll into a rectangle and spread with softened butter, brown sugar and cinnamon.",
+        "Roll tightly, slice into rounds and place in a greased pan. Let rise again.",
+        "Bake at 180°C for about 20–25 minutes. Glaze if desired."
+      ]
+    },
+    "Waffles": {
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 tbsp sugar",
+        "1 tbsp baking powder",
+        "1/2 tsp salt",
+        "2 eggs",
+        "1 3/4 cups milk",
+        "1/2 cup melted butter",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk flour, sugar, baking powder and salt.",
+        "Beat eggs with milk, melted butter and vanilla.",
+        "Combine wet and dry ingredients without overmixing.",
+        "Preheat and lightly grease a waffle iron.",
+        "Cook portions of batter until golden and crisp. Serve with fruit or syrup."
+      ]
+    },
+    "Belgian Waffles": {
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "2 tbsp sugar",
+        "2 tsp baking powder",
+        "1/2 tsp salt",
+        "2 eggs, separated",
+        "1 3/4 cups milk",
+        "1/2 cup melted butter",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk flour, sugar, baking powder and salt.",
+        "Mix egg yolks with milk, butter and vanilla, then combine with dry ingredients.",
+        "Whip egg whites to soft peaks and fold them gently into the batter.",
+        "Cook in a Belgian-style waffle iron until deeply golden and crisp.",
+        "Serve warm with fruit, whipped cream or syrup."
+      ]
+    },
+    "Pancakes": {
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "2 tbsp sugar",
+        "2 tsp baking powder",
+        "1/2 tsp salt",
+        "1 1/4 cups milk",
+        "1 egg",
+        "3 tbsp melted butter",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk flour, sugar, baking powder and salt.",
+        "Whisk milk, egg, melted butter and vanilla separately.",
+        "Combine wet and dry ingredients just until mixed; small lumps are fine.",
+        "Cook 1/4-cup portions on a lightly greased hot pan until bubbles form, then flip.",
+        "Cook until golden and serve warm."
+      ]
+    },
+    "Chocolate Pancakes": {
+      "ingredients": [
+        "1 1/4 cups all-purpose flour",
+        "1/4 cup cocoa powder",
+        "2 tbsp sugar",
+        "1 1/2 tsp baking powder",
+        "1/4 tsp salt",
+        "1 1/4 cups milk",
+        "1 egg",
+        "2 tbsp melted butter",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk flour, cocoa, sugar, baking powder and salt.",
+        "Mix milk, egg, butter and vanilla, then combine with dry ingredients.",
+        "Heat a lightly greased pan and pour small portions of batter.",
+        "Cook until bubbles appear, flip and cook the other side.",
+        "Serve with fruit, syrup or chocolate sauce."
+      ]
+    },
+    "French Crepes": {
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 eggs",
+        "1 1/4 cups milk",
+        "2 tbsp melted butter",
+        "1 tbsp sugar",
+        "1/4 tsp salt",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk eggs and milk together.",
+        "Add flour, sugar, salt, melted butter and vanilla and whisk until smooth.",
+        "Rest the batter for about 20–30 minutes.",
+        "Pour a thin layer into a lightly buttered skillet and swirl to spread.",
+        "Cook about 1 minute per side. Fill with sweet fillings and fold."
+      ]
+    },
+    "Churros Dessert": {
+      "ingredients": [
+        "1 cup water",
+        "2 tbsp butter",
+        "1 tbsp sugar",
+        "1/4 tsp salt",
+        "1 cup all-purpose flour",
+        "1 egg (optional)",
+        "Oil for frying",
+        "1/2 cup sugar mixed with 1 tsp cinnamon"
+      ],
+      "steps": [
+        "Bring water, butter, sugar and salt to a boil.",
+        "Add flour and stir vigorously until a smooth dough forms; cool slightly and mix in egg if using.",
+        "Pipe strips of dough into medium-hot oil.",
+        "Fry until golden and crisp, then drain.",
+        "Roll in cinnamon sugar and serve with chocolate sauce if desired."
+      ]
+    },
+    "Vanilla Ice Cream": {
+      "ingredients": [
+        "2 cups heavy cream",
+        "1 cup whole milk",
+        "3/4 cup sugar",
+        "1 tbsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "steps": [
+        "Whisk milk, sugar, vanilla and salt until the sugar dissolves.",
+        "Stir in heavy cream.",
+        "Chill the mixture thoroughly.",
+        "Churn in an ice-cream maker according to its instructions.",
+        "Freeze for several hours until firm."
+      ]
+    },
+    "Chocolate Ice Cream": {
+      "ingredients": [
+        "2 cups heavy cream",
+        "1 cup whole milk",
+        "3/4 cup sugar",
+        "1/2 cup unsweetened cocoa powder",
+        "100 g dark chocolate, melted",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Whisk milk, sugar and cocoa until smooth and warm gently if needed to dissolve the sugar.",
+        "Stir in melted chocolate, cream and vanilla.",
+        "Chill the mixture completely.",
+        "Churn in an ice-cream maker.",
+        "Freeze until firm before serving."
+      ]
+    },
+    "Strawberry Ice Cream": {
+      "ingredients": [
+        "2 cups strawberries, hulled",
+        "3/4 cup sugar",
+        "2 cups heavy cream",
+        "1 cup whole milk",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Blend or mash strawberries with half the sugar.",
+        "Mix remaining sugar with milk until dissolved, then add cream and vanilla.",
+        "Combine with the strawberry mixture and chill thoroughly.",
+        "Churn according to ice-cream-maker instructions.",
+        "Freeze until firm."
+      ]
+    },
+    "Mango Ice Cream": {
+      "ingredients": [
+        "2 cups ripe mango pulp",
+        "1 cup heavy cream",
+        "1 cup condensed milk",
+        "1/2 tsp vanilla extract"
+      ],
+      "steps": [
+        "Blend mango pulp until smooth.",
+        "Whip heavy cream until soft peaks form.",
+        "Fold condensed milk, vanilla and mango pulp into the whipped cream.",
+        "Transfer to a freezer-safe container.",
+        "Freeze for 6–8 hours or until firm, stirring once or twice during the first few hours for a smoother texture."
+      ]
+    },
+    "Chocolate Sundae": {
+      "ingredients": [
+        "2 scoops vanilla ice cream",
+        "1 scoop chocolate ice cream",
+        "Chocolate sauce",
+        "Whipped cream",
+        "Chopped nuts",
+        "A cherry"
+      ],
+      "steps": [
+        "Place ice cream scoops in a serving glass or bowl.",
+        "Drizzle generously with chocolate sauce.",
+        "Top with whipped cream and chopped nuts.",
+        "Finish with a cherry and serve immediately."
+      ]
+    },
+    "Banana Split": {
+      "ingredients": [
+        "1 banana",
+        "1 scoop vanilla ice cream",
+        "1 scoop chocolate ice cream",
+        "1 scoop strawberry ice cream",
+        "Chocolate sauce",
+        "Strawberry sauce",
+        "Whipped cream",
+        "Chopped nuts",
+        "3 cherries"
+      ],
+      "steps": [
+        "Peel and split the banana lengthwise and place it in a long dish.",
+        "Place the three ice cream scoops between the banana halves.",
+        "Drizzle with chocolate and strawberry sauces.",
+        "Top with whipped cream, nuts and cherries.",
+        "Serve immediately."
+      ]
+    },
+    "Chocolate Lava Cake": {
+      "ingredients": [
+        "100 g dark chocolate",
+        "100 g butter",
+        "2 eggs",
+        "2 egg yolks",
+        "1/4 cup sugar",
+        "1/4 cup all-purpose flour",
+        "Butter and cocoa for molds"
+      ],
+      "steps": [
+        "Preheat oven to 200°C and grease small ramekins; dust with cocoa.",
+        "Melt chocolate and butter together.",
+        "Whisk eggs, yolks and sugar until slightly thickened. Fold in chocolate mixture and flour.",
+        "Divide among ramekins.",
+        "Bake about 10–12 minutes until the edges are set but the center remains soft. Serve immediately."
+      ]
+    },
+    "Carrot Cake": {
+      "ingredients": [
+        "1 1/2 cups all-purpose flour",
+        "1 tsp baking powder",
+        "1 tsp baking soda",
+        "1 tsp cinnamon",
+        "1/4 tsp salt",
+        "2 eggs",
+        "3/4 cup sugar",
+        "1/2 cup vegetable oil",
+        "1 1/2 cups grated carrots",
+        "1/2 cup chopped walnuts"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and grease a cake pan.",
+        "Whisk flour, baking powder, baking soda, cinnamon and salt.",
+        "Beat eggs, sugar and oil together. Stir in grated carrots.",
+        "Fold in the dry ingredients and walnuts.",
+        "Bake for about 30–40 minutes until a toothpick comes out clean. Cool before frosting or serving."
+      ]
+    },
+    "Banana Bread": {
+      "ingredients": [
+        "3 ripe bananas, mashed",
+        "1/3 cup melted butter",
+        "3/4 cup sugar",
+        "1 egg",
+        "1 tsp vanilla extract",
+        "1 1/2 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1/4 tsp salt",
+        "1/2 cup chopped walnuts (optional)"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and grease a loaf pan.",
+        "Mix mashed bananas with melted butter, sugar, egg and vanilla.",
+        "Whisk flour, baking soda and salt separately, then fold into the banana mixture.",
+        "Add walnuts if desired.",
+        "Bake for about 50–60 minutes until a toothpick comes out clean. Cool before slicing."
+      ]
+    },
+    "Rice Pudding": {
+      "ingredients": [
+        "1/2 cup short- or medium-grain rice",
+        "4 cups whole milk",
+        "1/3–1/2 cup sugar",
+        "1 tsp vanilla extract",
+        "1/2 tsp cinnamon",
+        "2 tbsp raisins"
+      ],
+      "steps": [
+        "Rinse the rice and combine with milk in a heavy saucepan.",
+        "Simmer gently, stirring frequently, until the rice is tender and the mixture thickens, about 30–40 minutes.",
+        "Add sugar, vanilla, cinnamon and raisins.",
+        "Cook for another 5 minutes.",
+        "Serve warm or chilled."
+      ]
+    },
+    "Bread Pudding": {
+      "ingredients": [
+        "6 slices bread, cubed",
+        "2 cups milk",
+        "2 eggs",
+        "1/2 cup sugar",
+        "1 tsp vanilla extract",
+        "1/2 tsp cinnamon",
+        "2 tbsp raisins",
+        "2 tbsp melted butter"
+      ],
+      "steps": [
+        "Preheat oven to 175°C and grease a baking dish.",
+        "Place bread cubes and raisins in the dish.",
+        "Whisk milk, eggs, sugar, vanilla, cinnamon and melted butter.",
+        "Pour over the bread and let it soak for 10–15 minutes.",
+        "Bake for about 35–45 minutes until set and golden."
+      ]
+    },
+    "Baklava": {
+      "ingredients": [
+        "250 g phyllo pastry",
+        "150 g melted butter",
+        "2 cups chopped walnuts or pistachios",
+        "1 tsp cinnamon",
+        "1 cup sugar",
+        "1 cup water",
+        "1/2 cup honey",
+        "1 tbsp lemon juice"
+      ],
+      "steps": [
+        "Preheat oven to 175°C.",
+        "Layer several sheets of phyllo in a greased baking dish, brushing each with butter.",
+        "Spread some nuts and cinnamon over the layers, then continue layering phyllo and nuts.",
+        "Cut into diamonds or squares before baking.",
+        "Bake about 35–45 minutes until deeply golden.",
+        "Boil sugar, water, honey and lemon juice for about 8–10 minutes. Pour the warm syrup over the hot baklava and let it cool completely."
+      ]
+    }
+  },
+  "healthyRecipeDetails": {
+    "Grilled Chicken Salad": {
+      "ingredients": [
+        "Chicken breast – 150 g",
+        "mixed lettuce – 2 cups",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "carrot – 1/2",
+        "bell pepper – 1/2",
+        "olive oil – 1 tbsp",
+        "lemon juice – 1 tbsp",
+        "black pepper – 1/2 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Season chicken with half the oil, lemon juice, pepper and salt.",
+        "Grill until fully cooked and lightly browned.",
+        "Rest and slice.",
+        "Combine vegetables, add chicken, drizzle remaining dressing and toss."
+      ]
+    },
+    "Fresh Vegetable Salad": {
+      "ingredients": [
+        "Cucumber – 1",
+        "tomato – 2",
+        "carrot – 1",
+        "bell pepper – 1/2",
+        "onion – 1/4",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "black pepper – 1/4 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Chop all vegetables.",
+        "Whisk lemon juice, oil, pepper and salt.",
+        "Combine vegetables, add dressing, toss gently and serve fresh."
+      ]
+    },
+    "Healthy Oats Bowl": {
+      "ingredients": [
+        "Rolled oats – 1/2 cup",
+        "milk – 1 cup",
+        "banana – 1/2",
+        "apple – 1/2",
+        "chia seeds – 1 tsp",
+        "almonds – 1 tbsp",
+        "cinnamon – 1/4 tsp."
+      ],
+      "steps": [
+        "Cook oats and milk over medium-low heat until creamy.",
+        "Stir in cinnamon.",
+        "Transfer to a bowl and top with banana, apple, chia seeds and almonds."
+      ]
+    },
+    "Fruit Smoothie Bowl": {
+      "ingredients": [
+        "Banana – 1",
+        "mixed berries – 1 cup",
+        "plain yogurt – 1/2 cup",
+        "milk – 1/4 cup",
+        "chia seeds – 1 tsp",
+        "fruit for topping",
+        "nuts/seeds – 1 tbsp."
+      ],
+      "steps": [
+        "Blend banana, berries, yogurt and just enough milk to make a thick smoothie.",
+        "Pour into a bowl and top with fruit, chia seeds and nuts."
+      ]
+    },
+    "Quinoa Vegetable Bowl": {
+      "ingredients": [
+        "Cooked quinoa – 1 cup",
+        "broccoli – 1/2 cup",
+        "carrot – 1/2",
+        "bell pepper – 1/2",
+        "cooked chickpeas – 1/2 cup",
+        "olive oil – 1 tbsp",
+        "lemon juice – 1 tbsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cook quinoa.",
+        "Steam or roast vegetables until tender-crisp.",
+        "Combine quinoa, vegetables and chickpeas.",
+        "Mix lemon juice, oil, pepper and salt; drizzle over bowl."
+      ]
+    },
+    "Grilled Fish": {
+      "ingredients": [
+        "Fish fillet – 180 g",
+        "lemon juice – 1 tbsp",
+        "garlic – 1 clove",
+        "olive oil – 1 tsp",
+        "black pepper – 1/2 tsp",
+        "paprika – 1/2 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Mix lemon juice, garlic, oil and seasonings.",
+        "Coat fish and rest 15–20 minutes.",
+        "Grill over medium-high heat, turning once, until opaque and flaky."
+      ]
+    },
+    "Avocado Toast": {
+      "ingredients": [
+        "Whole-grain bread – 2 slices",
+        "ripe avocado – 1/2",
+        "lemon juice – 1 tsp",
+        "black pepper – 1/4 tsp",
+        "chilli flakes – 1/4 tsp optional",
+        "salt."
+      ],
+      "steps": [
+        "Toast bread.",
+        "Mash avocado with lemon, pepper and salt.",
+        "Spread on toast and add chilli flakes if desired."
+      ]
+    },
+    "Greek Yogurt Bowl": {
+      "ingredients": [
+        "Plain Greek yogurt – 1 cup",
+        "berries – 1/2 cup",
+        "banana – 1/2",
+        "rolled oats/granola – 2 tbsp",
+        "chia seeds – 1 tsp",
+        "almonds – 1 tbsp."
+      ],
+      "steps": [
+        "Add yogurt to a bowl.",
+        "Top with berries, banana, oats, chia seeds and almonds.",
+        "Serve chilled."
+      ]
+    },
+    "Overnight Oats": {
+      "ingredients": [
+        "Rolled oats – 1/2 cup",
+        "milk – 1/2 cup",
+        "plain yogurt – 1/4 cup",
+        "chia seeds – 1 tsp",
+        "banana – 1/2",
+        "cinnamon – 1/4 tsp."
+      ],
+      "steps": [
+        "Combine oats, milk, yogurt, chia and cinnamon in a covered container.",
+        "Stir, refrigerate overnight or at least 6 hours, then top with banana."
+      ]
+    },
+    "Chia Seed Pudding": {
+      "ingredients": [
+        "Chia seeds – 3 tbsp",
+        "milk – 1 cup",
+        "vanilla – 1/2 tsp",
+        "banana/berries – 1/2 cup",
+        "cinnamon – pinch."
+      ],
+      "steps": [
+        "Combine chia, milk, vanilla and cinnamon.",
+        "Stir, rest 15 minutes and stir again.",
+        "Refrigerate at least 4 hours or overnight.",
+        "Top with fruit."
+      ]
+    },
+    "Berry Smoothie": {
+      "ingredients": [
+        "Mixed berries – 1 cup",
+        "banana – 1/2",
+        "plain yogurt – 1/2 cup",
+        "milk – 1/2 cup",
+        "chia seeds – 1 tsp."
+      ],
+      "steps": [
+        "Blend all ingredients until smooth.",
+        "Add a little milk if needed and serve immediately."
+      ]
+    },
+    "Green Smoothie": {
+      "ingredients": [
+        "Spinach – 1 cup",
+        "banana – 1",
+        "apple – 1/2",
+        "cucumber – 1/2",
+        "plain yogurt – 1/2 cup",
+        "water – 1/2 cup",
+        "lemon juice – 1 tsp."
+      ],
+      "steps": [
+        "Wash produce.",
+        "Blend all ingredients until smooth.",
+        "Adjust with water and serve immediately."
+      ]
+    },
+    "Banana Oat Smoothie": {
+      "ingredients": [
+        "Banana – 1",
+        "rolled oats – 1/3 cup",
+        "milk – 1 cup",
+        "plain yogurt – 1/4 cup",
+        "cinnamon – 1/4 tsp",
+        "peanut butter – 1 tbsp optional."
+      ],
+      "steps": [
+        "Blend banana, oats, milk, yogurt and cinnamon.",
+        "Add peanut butter if desired.",
+        "Blend until creamy and serve."
+      ]
+    },
+    "Protein Smoothie": {
+      "ingredients": [
+        "Milk – 1 cup",
+        "Greek yogurt – 1/2 cup",
+        "banana – 1/2",
+        "rolled oats – 1/4 cup",
+        "peanut butter – 1 tbsp",
+        "protein powder – 1 serving optional",
+        "ice – 1/2 cup."
+      ],
+      "steps": [
+        "Add all ingredients to blender.",
+        "Blend until smooth.",
+        "Adjust thickness with milk or ice and serve."
+      ]
+    },
+    "Chicken Quinoa Salad": {
+      "ingredients": [
+        "Cooked chicken breast – 150 g",
+        "cooked quinoa – 1 cup",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "bell pepper – 1/2",
+        "herbs – 2 tbsp",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tbsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cook/grill chicken and slice.",
+        "Combine quinoa, vegetables and herbs.",
+        "Add chicken.",
+        "Whisk lemon, oil, pepper and salt; dress and toss."
+      ]
+    },
+    "Tuna Salad": {
+      "ingredients": [
+        "Tuna in water – 1 can, about 120 g drained",
+        "lettuce – 2 cups",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "sweet corn – 1/4 cup",
+        "red onion – 1/4",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Drain tuna.",
+        "Combine vegetables and tuna.",
+        "Mix lemon, oil, pepper and salt.",
+        "Dress and serve."
+      ]
+    },
+    "Salmon Salad": {
+      "ingredients": [
+        "Cooked salmon – 150 g",
+        "mixed greens – 2 cups",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "avocado – 1/2",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Season and grill/bake salmon until cooked; cool and flake.",
+        "Combine greens and vegetables.",
+        "Add salmon, lemon and oil; toss."
+      ]
+    },
+    "Egg Salad": {
+      "ingredients": [
+        "Boiled eggs – 3",
+        "Greek yogurt – 2 tbsp",
+        "mustard – 1 tsp",
+        "cucumber – 1/4",
+        "celery – 1 tbsp optional",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Boil eggs until set, cool and chop.",
+        "Mix yogurt, mustard, pepper and salt.",
+        "Fold in eggs, cucumber and celery.",
+        "Chill before serving."
+      ]
+    },
+    "Chickpea Salad": {
+      "ingredients": [
+        "Cooked chickpeas – 1 cup",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "red onion – 1/4",
+        "herbs – 2 tbsp",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tbsp",
+        "cumin – 1/4 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Drain and rinse chickpeas.",
+        "Combine with vegetables and herbs.",
+        "Mix lemon, oil, cumin and salt.",
+        "Dress and toss."
+      ]
+    },
+    "Lentil Salad": {
+      "ingredients": [
+        "Cooked brown/green lentils – 1 cup",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "carrot – 1/2",
+        "red onion – 1/4",
+        "parsley – 2 tbsp",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tbsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cook lentils until tender but firm and cool.",
+        "Combine with vegetables and parsley.",
+        "Whisk dressing, add and toss."
+      ]
+    },
+    "Sprout Salad": {
+      "ingredients": [
+        "Mixed sprouts – 1 cup",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "carrot – 1/2",
+        "onion – 1/4",
+        "lemon juice – 1 tbsp",
+        "chaat masala – 1/4 tsp optional",
+        "coriander – 2 tbsp",
+        "salt."
+      ],
+      "steps": [
+        "Use fresh sprouts; steam briefly if preferred.",
+        "Combine sprouts and vegetables.",
+        "Add coriander, lemon, optional chaat masala and salt.",
+        "Toss."
+      ]
+    },
+    "Mediterranean Salad": {
+      "ingredients": [
+        "Cucumber – 1",
+        "tomatoes – 2",
+        "bell pepper – 1/2",
+        "red onion – 1/4",
+        "olives – 1/4 cup",
+        "feta – 50 g",
+        "olive oil – 1 tbsp",
+        "lemon juice – 1 tbsp",
+        "oregano – 1/2 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Chop vegetables.",
+        "Add olives and feta.",
+        "Whisk oil, lemon, oregano, pepper and salt.",
+        "Dress and toss."
+      ]
+    },
+    "Quinoa Salad": {
+      "ingredients": [
+        "Cooked quinoa – 1 cup",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "bell pepper – 1/2",
+        "parsley – 2 tbsp",
+        "chickpeas – 1/2 cup",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tbsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cool cooked quinoa.",
+        "Combine all solid ingredients.",
+        "Mix lemon, oil, pepper and salt.",
+        "Add dressing and toss."
+      ]
+    },
+    "Brown Rice Bowl": {
+      "ingredients": [
+        "Cooked brown rice – 1 cup",
+        "broccoli – 1/2 cup",
+        "carrot – 1/2",
+        "cucumber – 1/2",
+        "chickpeas – 1/2 cup",
+        "avocado – 1/2",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cook rice.",
+        "Steam broccoli and carrot.",
+        "Arrange rice, vegetables, chickpeas and avocado.",
+        "Drizzle lemon and oil; season."
+      ]
+    },
+    "Vegetable Soup": {
+      "ingredients": [
+        "Carrot – 1",
+        "celery – 1 stalk",
+        "onion – 1",
+        "tomato – 1",
+        "beans – 1/2 cup",
+        "cabbage – 1 cup",
+        "vegetable stock/water – 4 cups",
+        "garlic – 2 cloves",
+        "pepper",
+        "olive oil – 1 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Sauté onion, garlic and celery.",
+        "Add remaining vegetables and stock.",
+        "Bring to boil and simmer until tender.",
+        "Season and serve hot."
+      ]
+    },
+    "Lentil Soup": {
+      "ingredients": [
+        "Red/brown lentils – 1 cup",
+        "onion – 1",
+        "carrot – 1",
+        "tomato – 1",
+        "garlic – 2 cloves",
+        "cumin – 1/2 tsp",
+        "turmeric – 1/4 tsp",
+        "stock/water – 4 cups",
+        "olive oil – 1 tsp",
+        "lemon – 1 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Rinse lentils.",
+        "Sauté onion, garlic and carrot.",
+        "Add tomato and spices.",
+        "Add lentils and stock; simmer until tender.",
+        "Blend partly if desired.",
+        "Add lemon and season."
+      ]
+    },
+    "Tomato Soup": {
+      "ingredients": [
+        "Ripe tomatoes – 500 g",
+        "onion – 1",
+        "garlic – 2 cloves",
+        "carrot – 1/2",
+        "vegetable stock – 2 cups",
+        "olive oil – 1 tsp",
+        "pepper",
+        "basil",
+        "salt."
+      ],
+      "steps": [
+        "Sauté onion, garlic and carrot.",
+        "Add tomatoes and cook until soft.",
+        "Add stock and simmer 15–20 minutes.",
+        "Blend smooth, adjust consistency and season."
+      ]
+    },
+    "Chicken Vegetable Soup": {
+      "ingredients": [
+        "Chicken breast – 200 g",
+        "carrot – 1",
+        "celery – 1 stalk",
+        "onion – 1",
+        "beans – 1/2 cup",
+        "cabbage – 1 cup",
+        "garlic – 2 cloves",
+        "chicken stock – 4 cups",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Cook chicken in stock until done, shred and reserve.",
+        "Sauté vegetables briefly.",
+        "Add stock and vegetables and simmer until tender.",
+        "Return chicken, season and serve."
+      ]
+    },
+    "Minestrone Soup": {
+      "ingredients": [
+        "Olive oil – 1 tbsp",
+        "onion – 1",
+        "carrot – 1",
+        "celery – 1 stalk",
+        "tomatoes – 2",
+        "beans – 1 cup",
+        "zucchini – 1",
+        "whole-wheat/small pasta – 1/2 cup",
+        "vegetable stock – 4 cups",
+        "Italian herbs – 1 tsp",
+        "spinach – 1 cup",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Sauté onion, carrot and celery.",
+        "Add tomatoes and herbs.",
+        "Add stock and beans.",
+        "Add zucchini.",
+        "Add pasta and cook until tender.",
+        "Stir in spinach, season and serve."
+      ]
+    },
+    "Grilled Vegetable Wrap": {
+      "ingredients": [
+        "Whole-wheat tortilla – 1",
+        "bell pepper – 1/2",
+        "zucchini – 1/2",
+        "onion – 1/4",
+        "carrot – 1/2",
+        "hummus – 2 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Slice vegetables, toss with oil and seasoning and grill until tender.",
+        "Warm tortilla, spread hummus, add vegetables, roll tightly and serve."
+      ]
+    },
+    "Chicken Lettuce Wrap": {
+      "ingredients": [
+        "Chicken breast – 150 g, chopped",
+        "lettuce leaves – 6",
+        "carrot – 1/2",
+        "bell pepper – 1/2",
+        "onion – 1/4",
+        "garlic – 1 clove",
+        "soy sauce – 1 tbsp",
+        "sesame oil – 1 tsp",
+        "pepper."
+      ],
+      "steps": [
+        "Sauté garlic and onion in sesame oil.",
+        "Add chicken and cook completely.",
+        "Add vegetables, soy sauce and pepper; stir-fry until tender-crisp.",
+        "Spoon into lettuce leaves and serve."
+      ]
+    },
+    "Whole Wheat Sandwich": {
+      "ingredients": [
+        "Whole-wheat bread – 2 slices",
+        "cooked chicken or boiled egg – 100 g",
+        "lettuce – 1/2 cup",
+        "tomato – 1/2",
+        "cucumber – 1/2",
+        "hummus/plain yogurt – 2 tbsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Toast bread.",
+        "Spread hummus or yogurt.",
+        "Layer lettuce, tomato, cucumber and protein.",
+        "Season, close, cut and serve."
+      ]
+    },
+    "Avocado Sandwich": {
+      "ingredients": [
+        "Whole-wheat bread – 2 slices",
+        "avocado – 1/2",
+        "tomato – 1/2",
+        "cucumber – 1/2",
+        "lettuce – 1/2 cup",
+        "lemon juice – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Mash avocado with lemon, pepper and salt.",
+        "Toast bread if desired.",
+        "Spread avocado and layer vegetables.",
+        "Close and serve."
+      ]
+    },
+    "Hummus Vegetable Wrap": {
+      "ingredients": [
+        "Whole-wheat tortilla – 1",
+        "hummus – 3 tbsp",
+        "cucumber – 1/2",
+        "carrot – 1/2",
+        "bell pepper – 1/2",
+        "lettuce – 1/2 cup",
+        "tomato – 1/2",
+        "pepper."
+      ],
+      "steps": [
+        "Warm tortilla.",
+        "Spread hummus.",
+        "Arrange vegetables in centre, season with pepper, fold sides and roll tightly."
+      ]
+    },
+    "Baked Sweet Potato": {
+      "ingredients": [
+        "Sweet potato – 1 large",
+        "olive oil – 1 tsp",
+        "black pepper – 1/4 tsp",
+        "paprika – 1/4 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Wash and dry potato; pierce with a fork.",
+        "Rub with oil and seasonings.",
+        "Bake at 200°C until completely tender, usually 40–60 minutes depending on size.",
+        "Cut open and serve."
+      ]
+    },
+    "Sweet Potato Bowl": {
+      "ingredients": [
+        "Cooked sweet potato – 1 medium",
+        "cooked chickpeas – 1/2 cup",
+        "spinach – 1 cup",
+        "avocado – 1/2",
+        "pumpkin seeds – 1 tbsp",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Bake or steam sweet potato.",
+        "Sauté or steam spinach.",
+        "Arrange sweet potato, chickpeas, spinach and avocado in bowl.",
+        "Top with seeds, lemon and oil; season."
+      ]
+    },
+    "Roasted Vegetables": {
+      "ingredients": [
+        "Broccoli – 1 cup",
+        "carrot – 1",
+        "bell pepper – 1",
+        "zucchini – 1/2",
+        "onion – 1/2",
+        "olive oil – 1 tbsp",
+        "pepper – 1/2 tsp",
+        "Italian herbs – 1/2 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Preheat oven to 200°C.",
+        "Cut vegetables evenly.",
+        "Toss with oil and seasonings.",
+        "Spread in one layer and roast 20–30 minutes, turning once."
+      ]
+    },
+    "Steamed Vegetable Bowl": {
+      "ingredients": [
+        "Broccoli – 1 cup",
+        "carrot – 1",
+        "beans – 1/2 cup",
+        "cauliflower – 1 cup",
+        "sweet corn – 1/2 cup",
+        "lemon juice – 1 tbsp",
+        "pepper",
+        "olive oil – 1 tsp",
+        "salt."
+      ],
+      "steps": [
+        "Cut vegetables evenly.",
+        "Steam until tender-crisp.",
+        "Transfer to bowl.",
+        "Add lemon, oil, pepper and salt; toss."
+      ]
+    },
+    "Vegetable Stir Fry": {
+      "ingredients": [
+        "Broccoli – 1 cup",
+        "bell pepper – 1",
+        "carrot – 1",
+        "snow peas/beans – 1/2 cup",
+        "mushrooms – 1/2 cup",
+        "garlic – 2 cloves",
+        "low-sodium soy sauce – 1 tbsp",
+        "sesame oil – 1 tsp",
+        "pepper."
+      ],
+      "steps": [
+        "Heat sesame oil.",
+        "Add garlic.",
+        "Stir-fry harder vegetables first, then softer vegetables and mushrooms.",
+        "Add soy sauce and pepper, toss one minute and serve."
+      ]
+    },
+    "Tofu Stir Fry": {
+      "ingredients": [
+        "Firm tofu – 200 g",
+        "broccoli – 1 cup",
+        "bell pepper – 1/2",
+        "carrot – 1/2",
+        "garlic – 2 cloves",
+        "low-sodium soy sauce – 1 tbsp",
+        "sesame oil – 1 tsp",
+        "ginger – 1 tsp",
+        "pepper."
+      ],
+      "steps": [
+        "Press and cube tofu.",
+        "Pan-sear until golden and remove.",
+        "Stir-fry garlic, ginger and vegetables.",
+        "Return tofu, add soy sauce and sesame oil, toss and serve."
+      ]
+    },
+    "Grilled Tofu": {
+      "ingredients": [
+        "Firm tofu – 200 g",
+        "soy sauce – 1 tbsp",
+        "lemon juice – 1 tbsp",
+        "garlic – 1 clove",
+        "paprika – 1/2 tsp",
+        "pepper – 1/4 tsp",
+        "olive oil – 1 tsp."
+      ],
+      "steps": [
+        "Press tofu and slice.",
+        "Mix marinade and coat tofu for at least 20 minutes.",
+        "Grill on a hot grill or grill pan, turning once, until browned and heated through."
+      ]
+    },
+    "Baked Salmon": {
+      "ingredients": [
+        "Salmon fillet – 180 g",
+        "lemon juice – 1 tbsp",
+        "garlic – 1 clove",
+        "olive oil – 1 tsp",
+        "dried herbs – 1/2 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Preheat oven to 200°C.",
+        "Place salmon on tray.",
+        "Mix lemon, garlic, oil, herbs and seasoning and brush over fish.",
+        "Bake about 10–15 minutes depending on thickness, until opaque and flaky."
+      ]
+    },
+    "Herb Grilled Fish": {
+      "ingredients": [
+        "White fish fillet – 180 g",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "garlic – 1 clove",
+        "mixed dried herbs – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Mix lemon, oil, garlic, herbs and seasoning.",
+        "Coat fish and rest 15–20 minutes.",
+        "Grill over medium-high heat, turning once, until opaque and flaky."
+      ]
+    },
+    "Chicken Brown Rice Bowl": {
+      "ingredients": [
+        "Cooked brown rice – 1 cup",
+        "chicken breast – 150 g",
+        "broccoli – 1/2 cup",
+        "carrot – 1/2",
+        "cucumber – 1/2",
+        "avocado – 1/2",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Season and grill chicken until completely cooked; slice.",
+        "Cook rice and steam vegetables.",
+        "Arrange rice, chicken, vegetables and avocado.",
+        "Drizzle lemon and oil; season."
+      ]
+    },
+    "Turkey Salad": {
+      "ingredients": [
+        "Cooked turkey breast – 150 g",
+        "mixed lettuce – 2 cups",
+        "cucumber – 1/2",
+        "tomato – 1",
+        "carrot – 1/2",
+        "avocado – 1/2",
+        "lemon juice – 1 tbsp",
+        "olive oil – 1 tsp",
+        "pepper",
+        "salt."
+      ],
+      "steps": [
+        "Slice or shred turkey.",
+        "Combine vegetables and avocado.",
+        "Add turkey.",
+        "Whisk lemon, oil, pepper and salt; dress and toss."
+      ]
+    },
+    "Oatmeal with Berries": {
+      "ingredients": [
+        "Rolled oats – 1/2 cup",
+        "milk – 1 cup",
+        "mixed berries – 1/2 cup",
+        "chia seeds – 1 tsp",
+        "cinnamon – 1/4 tsp",
+        "almonds – 1 tbsp."
+      ],
+      "steps": [
+        "Cook oats with milk until creamy.",
+        "Stir in cinnamon.",
+        "Transfer to bowl and top with berries, chia and almonds."
+      ]
+    },
+    "Apple Cinnamon Oatmeal": {
+      "ingredients": [
+        "Rolled oats – 1/2 cup",
+        "milk – 1 cup",
+        "apple – 1",
+        "cinnamon – 1/2 tsp",
+        "walnuts – 1 tbsp",
+        "chia seeds – 1 tsp."
+      ],
+      "steps": [
+        "Cook oats, milk, half the apple and cinnamon over medium-low heat until tender.",
+        "Transfer to bowl and top with remaining apple, walnuts and chia."
+      ]
+    },
+    "Peanut Butter Banana Bowl": {
+      "ingredients": [
+        "Banana – 1",
+        "plain Greek yogurt – 1 cup",
+        "peanut butter – 1 tbsp",
+        "rolled oats – 2 tbsp",
+        "chia seeds – 1 tsp",
+        "cinnamon – pinch."
+      ],
+      "steps": [
+        "Add yogurt to bowl.",
+        "Top with sliced banana, oats and chia.",
+        "Drizzle peanut butter and sprinkle cinnamon."
+      ]
+    },
+    "Nut and Fruit Bowl": {
+      "ingredients": [
+        "Apple – 1/2",
+        "banana – 1/2",
+        "berries – 1/2 cup",
+        "orange – 1/2",
+        "almonds – 1 tbsp",
+        "walnuts – 1 tbsp",
+        "pumpkin seeds – 1 tbsp."
+      ],
+      "steps": [
+        "Wash and cut fruits.",
+        "Arrange in bowl.",
+        "Add nuts and seeds.",
+        "Mix gently and serve fresh."
+      ]
+    },
+    "Healthy Vegetable Pasta": {
+      "ingredients": [
+        "Whole-wheat pasta – 75 g dry",
+        "broccoli – 1/2 cup",
+        "bell pepper – 1/2",
+        "zucchini – 1/2",
+        "tomato – 1",
+        "garlic – 2 cloves",
+        "olive oil – 1 tbsp",
+        "Italian herbs – 1 tsp",
+        "pepper",
+        "Parmesan – 1 tbsp optional",
+        "salt."
+      ],
+      "steps": [
+        "Cook pasta until al dente and reserve a little pasta water.",
+        "Sauté garlic in olive oil.",
+        "Add vegetables and cook until tender-crisp.",
+        "Add tomato and herbs.",
+        "Toss in pasta with a splash of pasta water.",
+        "Season and optionally top with a small amount of Parmesan."
+      ]
+    }
+  }
+}
